@@ -7,14 +7,4 @@ The data set was taken fro a USDA website. The link is provided below as well as
 Technologies used are python, pandas, Excel, SKlearn and tableau.
 Question that 
 
-Take Away from the analysis 
-
-Project Based Learning:
-Insert Catchy Project Title
-Project Overview:
-Describe the project here. What will students do?  What will students learn? How will students present their project?
-Standards:
-•	List learning and content standards here
-•	List learning and content standards here
-•	List learning and content standards here
 
