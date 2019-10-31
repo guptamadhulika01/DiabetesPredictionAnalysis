@@ -1,0 +1,3143 @@
+,State,County,"Population Estimate, 2012","Population Estimate, 2016",PercChangeInPop2012-2016
+0, Alabama,Autauga ,55027,55416,0.71
+1, Alabama,Baldwin ,190403,208563,9.54
+2, Alabama,Barbour ,27132,25965,-4.3
+3, Alabama,Bibb ,22645,22643,-0.01
+4, Alabama,Blount ,57772,57704,-0.12
+5, Alabama,Bullock ,10654,10362,-2.74
+6, Alabama,Butler ,20665,19998,-3.23
+7, Alabama,Calhoun ,117208,114611,-2.22
+8, Alabama,Chambers ,34084,33843,-0.71
+9, Alabama,Cherokee ,26017,25725,-1.12
+10, Alabama,Chilton ,43693,43941,0.57
+11, Alabama,Choctaw ,13549,12993,-4.1
+12, Alabama,Clarke ,25148,24392,-3.01
+13, Alabama,Clay ,13461,13492,0.23
+14, Alabama,Cleburne ,14928,14924,-0.03
+15, Alabama,Coffee ,51180,51226,0.09
+16, Alabama,Colbert ,54493,54216,-0.51
+17, Alabama,Conecuh ,13007,12395,-4.71
+18, Alabama,Coosa ,11201,10581,-5.54
+19, Alabama,Covington ,37842,37458,-1.01
+20, Alabama,Crenshaw ,13920,13913,-0.05
+21, Alabama,Cullman ,80351,82471,2.64
+22, Alabama,Dale ,50296,49226,-2.13
+23, Alabama,Dallas ,42748,40008,-6.41
+24, Alabama,DeKalb ,70961,70900,-0.09
+25, Alabama,Elmore ,80291,81799,1.88
+26, Alabama,Escambia ,38063,37728,-0.88
+27, Alabama,Etowah ,104215,102564,-1.58
+28, Alabama,Fayette ,16966,16546,-2.48
+29, Alabama,Franklin ,31652,31628,-0.08
+30, Alabama,Geneva ,27012,26614,-1.47
+31, Alabama,Greene ,8837,8422,-4.7
+32, Alabama,Hale ,15393,14952,-2.86
+33, Alabama,Henry ,17237,17164,-0.42
+34, Alabama,Houston ,103382,104056,0.65
+35, Alabama,Jackson ,53087,52138,-1.79
+36, Alabama,Jefferson ,657639,659521,0.29
+37, Alabama,Lamar ,14257,13918,-2.38
+38, Alabama,Lauderdale ,92694,92318,-0.41
+39, Alabama,Lawrence ,33788,33244,-1.61
+40, Alabama,Lee ,148289,158991,7.22
+41, Alabama,Limestone ,87368,92753,6.16
+42, Alabama,Lowndes ,10835,10358,-4.4
+43, Alabama,Macon ,20632,18963,-8.09
+44, Alabama,Madison ,342773,356967,4.14
+45, Alabama,Marengo ,20451,19673,-3.8
+46, Alabama,Marion ,30520,29998,-1.71
+47, Alabama,Marshall ,94182,95157,1.04
+48, Alabama,Mobile ,413760,414836,0.26
+49, Alabama,Monroe ,22593,21530,-4.7
+50, Alabama,Montgomery ,228708,226349,-1.03
+51, Alabama,Morgan ,120123,119012,-0.92
+52, Alabama,Perry ,10184,9574,-5.99
+53, Alabama,Pickens ,19359,20324,4.98
+54, Alabama,Pike ,33113,33286,0.52
+55, Alabama,Randolph ,22623,22652,0.13
+56, Alabama,Russell ,57626,58172,0.95
+57, Alabama,St. Clair ,85168,88019,3.35
+58, Alabama,Shelby ,200789,210622,4.9
+59, Alabama,Sumter ,13448,13040,-3.03
+60, Alabama,Talladega ,81941,80103,-2.24
+61, Alabama,Tallapoosa ,41144,40727,-1.01
+62, Alabama,Tuscaloosa ,198581,206102,3.79
+63, Alabama,Walker ,66211,64967,-1.88
+64, Alabama,Washington ,17115,16756,-2.1
+65, Alabama,Wilcox ,11355,10986,-3.25
+66, Alabama,Winston ,24171,23805,-1.51
+67, Alaska,Aleutians East ,3285,3296,0.33
+68, Alaska,Aleutians West ,5688,5647,-0.72
+69, Alaska,Anchorage Municipality,298527,298192,-0.11
+70, Alaska,Bethel ,17695,17968,1.54
+71, Alaska,Bristol Bay ,983,898,-8.65
+72, Alaska,Denali Borough,1913,1953,2.09
+73, Alaska,Dillingham ,4963,4954,-0.18
+74, Alaska,Fairbanks North Star Borough,100330,100605,0.27
+75, Alaska,Haines ,2572,2496,-2.95
+76, Alaska,Hoonah-Angoon Census Area,2131,2078,-2.49
+77, Alaska,Juneau ,32434,32468,0.1
+78, Alaska,Kenai Peninsula ,56952,58506,2.73
+79, Alaska,Ketchikan Gateway Borough,13711,13746,0.26
+80, Alaska,Kodiak Island ,14051,13732,-2.27
+81, Alaska,Kusilvak ,7792,8049,3.3
+82, Alaska,Lake and Peninsula ,1644,1562,-4.99
+83, Alaska,Matanuska-Susitna Borough,93791,104365,11.27
+84, Alaska,Nome,9873,9917,0.45
+85, Alaska,North Slope ,9662,9606,-0.58
+86, Alaska,Northwest Arctic ,7721,7673,-0.62
+87, Alaska,Petersburg ,3263,3149,-3.49
+88, Alaska,Prince of Wales-Hyder ,6375,6347,-0.44
+89, Alaska,Sitka ,9048,8830,-2.41
+90, Alaska,Skagway ,990,1088,9.9
+91, Alaska,Southeast Fairbanks ,7179,6876,-4.22
+92, Alaska,Valdez-Cordova ,9729,9355,-3.84
+93, Alaska,Wrangell ,2402,2411,0.37
+94, Alaska,Yakutat ,657,601,-8.52
+95, Alaska,Yukon-Koyukuk ,5728,5526,-3.53
+96, Arizona,Apache ,72968,73112,0.2
+97, Arizona,Cochise ,131843,125770,-4.61
+98, Arizona,Coconino ,135999,140908,3.61
+99, Arizona,Gila ,53036,53556,0.98
+100, Arizona,Graham ,36958,37599,1.73
+101, Arizona,Greenlee ,8763,9613,9.7
+102, Arizona,La Paz ,20365,20317,-0.24
+103, Arizona,Maricopa ,3942959,4242997,7.61
+104, Arizona,Mohave ,203126,205249,1.05
+105, Arizona,Navajo ,107037,110026,2.79
+106, Arizona,Pima ,992490,1016206,2.39
+107, Arizona,Pinal ,382259,418540,9.49
+108, Arizona,Santa Cruz ,47321,45985,-2.82
+109, Arizona,Yavapai ,212350,225562,6.22
+110, Arizona,Yuma ,202160,205631,1.72
+111, Arkansas,Arkansas ,18978,18214,-4.03
+112, Arkansas,Ashley ,21491,20492,-4.65
+113, Arkansas,Baxter ,41068,41062,-0.01
+114, Arkansas,Benton ,234243,258291,10.27
+115, Arkansas,Boone ,37356,37304,-0.14
+116, Arkansas,Bradley ,11273,10996,-2.46
+117, Arkansas,Calhoun ,5306,5144,-3.05
+118, Arkansas,Carroll ,27574,27646,0.26
+119, Arkansas,Chicot ,11473,10945,-4.6
+120, Arkansas,Clark ,22807,22657,-0.66
+121, Arkansas,Clay ,15568,14920,-4.16
+122, Arkansas,Cleburne ,25824,25264,-2.17
+123, Arkansas,Cleveland ,8615,8241,-4.34
+124, Arkansas,Columbia ,24429,23901,-2.16
+125, Arkansas,Conway ,21205,20937,-1.26
+126, Arkansas,Craighead ,99948,105835,5.89
+127, Arkansas,Crawford ,61940,62267,0.53
+128, Arkansas,Crittenden ,50065,49235,-1.66
+129, Arkansas,Cross ,17651,17037,-3.48
+130, Arkansas,Dallas ,7979,7469,-6.39
+131, Arkansas,Desha ,12575,11876,-5.56
+132, Arkansas,Drew ,18762,18651,-0.59
+133, Arkansas,Faulkner ,118534,122227,3.12
+134, Arkansas,Franklin ,17957,17626,-1.84
+135, Arkansas,Fulton ,12246,12123,-1.0
+136, Arkansas,Garland ,96794,97477,0.71
+137, Arkansas,Grant ,18026,18082,0.31
+138, Arkansas,Greene ,43166,44598,3.32
+139, Arkansas,Hempstead ,22346,21974,-1.66
+140, Arkansas,Hot Spring ,33457,33374,-0.25
+141, Arkansas,Howard ,13693,13377,-2.31
+142, Arkansas,Independence ,36925,37168,0.66
+143, Arkansas,Izard ,13522,13433,-0.66
+144, Arkansas,Jackson ,17649,17221,-2.43
+145, Arkansas,Jefferson ,74618,70016,-6.17
+146, Arkansas,Johnson ,25911,26176,1.02
+147, Arkansas,Lafayette ,7441,6847,-7.98
+148, Arkansas,Lawrence ,17047,16735,-1.83
+149, Arkansas,Lee ,10162,9310,-8.38
+150, Arkansas,Lincoln ,14139,13705,-3.07
+151, Arkansas,Little River ,12920,12451,-3.63
+152, Arkansas,Logan ,22018,21792,-1.03
+153, Arkansas,Lonoke ,70101,72228,3.03
+154, Arkansas,Madison ,15619,16072,2.9
+155, Arkansas,Marion ,16616,16325,-1.75
+156, Arkansas,Miller ,43649,43787,0.32
+157, Arkansas,Mississippi ,45531,42835,-5.92
+158, Arkansas,Monroe ,7843,7169,-8.59
+159, Arkansas,Montgomery ,9320,8879,-4.73
+160, Arkansas,Nevada ,8911,8398,-5.76
+161, Arkansas,Newton ,8087,7936,-1.87
+162, Arkansas,Ouachita ,25405,24098,-5.14
+163, Arkansas,Perry ,10336,10132,-1.97
+164, Arkansas,Phillips ,20762,18975,-8.61
+165, Arkansas,Pike ,11270,10832,-3.89
+166, Arkansas,Poinsett ,24293,24023,-1.11
+167, Arkansas,Polk ,20440,20173,-1.31
+168, Arkansas,Pope ,62631,63779,1.83
+169, Arkansas,Prairie ,8460,8251,-2.47
+170, Arkansas,Pulaski ,388905,393250,1.12
+171, Arkansas,Randolph ,17854,17448,-2.27
+172, Arkansas,St. Francis ,27907,26196,-6.13
+173, Arkansas,Saline ,111758,118703,6.21
+174, Arkansas,Scott ,10986,10277,-6.45
+175, Arkansas,Searcy ,7988,7967,-0.26
+176, Arkansas,Sebastian ,127418,127793,0.29
+177, Arkansas,Sevier ,17153,16910,-1.42
+178, Arkansas,Sharp ,17061,17157,0.56
+179, Arkansas,Stone ,12610,12539,-0.56
+180, Arkansas,Union ,40864,39887,-2.39
+181, Arkansas,Van Buren ,17167,16628,-3.14
+182, Arkansas,Washington ,211497,228049,7.83
+183, Arkansas,White ,78670,79263,0.75
+184, Arkansas,Woodruff ,7068,6641,-6.04
+185, Arkansas,Yell ,21804,21552,-1.16
+186, California,Alameda ,1555542,1647704,5.92
+187, California,Alpine ,1123,1071,-4.63
+188, California,Amador ,37089,37383,0.79
+189, California,Butte ,221180,226864,2.57
+190, California,Calaveras ,44760,45171,0.92
+191, California,Colusa ,21323,21588,1.24
+192, California,Contra Costa ,1078242,1135127,5.28
+193, California,Del Norte ,28212,27540,-2.38
+194, California,El Dorado ,180558,185625,2.81
+195, California,Fresno ,946844,979915,3.49
+196, California,Glenn ,27938,28085,0.53
+197, California,Humboldt ,134663,136646,1.47
+198, California,Imperial ,177287,180883,2.03
+199, California,Inyo ,18408,18144,-1.43
+200, California,Kern ,855808,884788,3.39
+201, California,Kings ,151042,149785,-0.83
+202, California,Lake ,63942,64116,0.27
+203, California,Lassen ,33662,30870,-8.29
+204, California,Los Angeles ,9953555,10137915,1.85
+205, California,Madera ,151947,154697,1.81
+206, California,Marin ,256064,260651,1.79
+207, California,Mariposa ,17858,17410,-2.51
+208, California,Mendocino ,87409,87628,0.25
+209, California,Merced ,261430,268672,2.77
+210, California,Modoc ,9328,8795,-5.71
+211, California,Mono ,14325,13981,-2.4
+212, California,Monterey ,425799,435232,2.22
+213, California,Napa ,138898,142166,2.35
+214, California,Nevada ,98305,99107,0.82
+215, California,Orange ,3084935,3172532,2.84
+216, California,Placer ,361018,380531,5.4
+217, California,Plumas ,19327,18627,-3.62
+218, California,Riverside ,2264919,2387741,5.42
+219, California,Sacramento ,1447236,1514460,4.64
+220, California,San Benito ,56799,59414,4.6
+221, California,San Bernardino ,2077247,2140096,3.03
+222, California,San Diego ,3181513,3317749,4.28
+223, California,San Francisco ,828816,870887,5.08
+224, California,San Joaquin ,700611,733709,4.72
+225, California,San Luis Obispo ,274487,282887,3.06
+226, California,San Mateo ,739982,764797,3.35
+227, California,Santa Barbara ,430638,446170,3.61
+228, California,Santa Clara ,1838988,1919402,4.37
+229, California,Santa Cruz ,266435,274673,3.09
+230, California,Shasta ,178430,179631,0.67
+231, California,Sierra ,3076,2947,-4.19
+232, California,Siskiyou ,44147,43603,-1.23
+233, California,Solano ,419881,440207,4.84
+234, California,Sonoma ,490509,503070,2.56
+235, California,Stanislaus ,521360,541560,3.87
+236, California,Sutter ,94362,96651,2.43
+237, California,Tehama ,63133,63276,0.23
+238, California,Trinity ,13500,12782,-5.32
+239, California,Tulare ,450701,460437,2.16
+240, California,Tuolumne ,54134,53804,-0.61
+241, California,Ventura ,834519,849738,1.82
+242, California,Yolo ,204929,215802,5.31
+243, California,Yuba ,72901,75275,3.26
+244, Colorado,Adams ,460472,498187,8.19
+245, Colorado,Alamosa ,16141,16654,3.18
+246, Colorado,Arapahoe ,596066,637068,6.88
+247, Colorado,Archuleta ,12113,12854,6.12
+248, Colorado,Baca ,3762,3568,-5.16
+249, Colorado,Bent ,5811,5861,0.86
+250, Colorado,Boulder ,305350,322226,5.53
+251, Colorado,Broomfield ,58930,66529,12.89
+252, Colorado,Chaffee ,18105,19058,5.26
+253, Colorado,Cheyenne ,1873,1848,-1.33
+254, Colorado,Clear Creek ,9075,9436,3.98
+255, Colorado,Conejos ,8279,8129,-1.81
+256, Colorado,Costilla ,3603,3721,3.28
+257, Colorado,Crowley ,5418,5694,5.09
+258, Colorado,Custer ,4241,4602,8.51
+259, Colorado,Delta ,30438,30442,0.01
+260, Colorado,Denver ,633563,693060,9.39
+261, Colorado,Dolores ,1998,2056,2.9
+262, Colorado,Douglas ,298754,328632,10.0
+263, Colorado,Eagle ,51942,53989,3.94
+264, Colorado,Elbert ,23400,25231,7.82
+265, Colorado,El Paso ,645641,688284,6.6
+266, Colorado,Fremont ,47122,47446,0.69
+267, Colorado,Garfield ,56709,58887,3.84
+268, Colorado,Gilpin ,5453,5931,8.77
+269, Colorado,Grand ,14147,15008,6.09
+270, Colorado,Gunnison ,15425,16408,6.37
+271, Colorado,Hinsdale ,797,788,-1.13
+272, Colorado,Huerfano ,6582,6677,1.44
+273, Colorado,Jackson ,1347,1357,0.74
+274, Colorado,Jefferson ,546080,571837,4.72
+275, Colorado,Kiowa ,1438,1373,-4.52
+276, Colorado,Kit Carson ,8107,8195,1.09
+277, Colorado,Lake ,7280,7618,4.64
+278, Colorado,La Plata ,52356,55623,6.24
+279, Colorado,Larimer ,310965,339993,9.33
+280, Colorado,Las Animas ,14967,14103,-5.77
+281, Colorado,Lincoln ,5442,5643,3.69
+282, Colorado,Logan ,21846,21919,0.33
+283, Colorado,Mesa ,147471,150083,1.77
+284, Colorado,Mineral ,710,732,3.1
+285, Colorado,Moffat ,13164,13109,-0.42
+286, Colorado,Montezuma ,25437,26999,6.14
+287, Colorado,Montrose ,40678,41471,1.95
+288, Colorado,Morgan ,28331,28274,-0.2
+289, Colorado,Otero ,18689,18295,-2.11
+290, Colorado,Ouray ,4546,4857,6.84
+291, Colorado,Park ,16037,17166,7.04
+292, Colorado,Phillips ,4382,4288,-2.15
+293, Colorado,Pitkin ,17223,17752,3.07
+294, Colorado,Prowers ,12408,11922,-3.92
+295, Colorado,Pueblo ,160397,165123,2.95
+296, Colorado,Rio Blanco ,6796,6545,-3.69
+297, Colorado,Rio Grande ,11882,11479,-3.39
+298, Colorado,Routt ,23285,24648,5.85
+299, Colorado,Saguache ,6305,6389,1.33
+300, Colorado,San Juan ,691,694,0.43
+301, Colorado,San Miguel ,7578,8017,5.79
+302, Colorado,Sedgwick ,2372,2407,1.48
+303, Colorado,Summit ,28223,30374,7.62
+304, Colorado,Teller ,23373,24043,2.87
+305, Colorado,Washington ,4737,4908,3.61
+306, Colorado,Weld ,263997,294932,11.72
+307, Colorado,Yuma ,10117,10103,-0.14
+308, Connecticut,Fairfield ,934931,944177,0.99
+309, Connecticut,Hartford ,897420,892389,-0.56
+310, Connecticut,Litchfield ,187487,182571,-2.62
+311, Connecticut,Middlesex ,165512,163329,-1.32
+312, Connecticut,New Haven ,864177,856875,-0.84
+313, Connecticut,New London ,274267,269801,-1.63
+314, Connecticut,Tolland ,152006,151118,-0.58
+315, Connecticut,Windham ,117995,116192,-1.53
+316, Delaware,Kent ,167605,174827,4.31
+317, Delaware,New Castle ,546041,556987,2.0
+318, Delaware,Sussex ,203347,220251,8.31
+319, District of Columbia,District of Columbia,635327,681170,7.22
+320, Florida,Alachua ,251587,263496,4.73
+321, Florida,Baker ,27055,27937,3.26
+322, Florida,Bay ,172029,183974,6.94
+323, Florida,Bradford ,27141,26926,-0.79
+324, Florida,Brevard ,547753,579130,5.73
+325, Florida,Broward ,1816552,1909632,5.12
+326, Florida,Calhoun ,14717,14423,-2.0
+327, Florida,Charlotte ,162937,178465,9.53
+328, Florida,Citrus ,139341,143621,3.07
+329, Florida,Clay ,194260,208311,7.23
+330, Florida,Collier ,332332,365136,9.87
+331, Florida,Columbia ,67949,69299,1.99
+332, Florida,DeSoto ,34781,35800,2.93
+333, Florida,Dixie ,16074,16300,1.41
+334, Florida,Duval ,880870,926255,5.15
+335, Florida,Escambia ,304218,315187,3.61
+336, Florida,Flagler ,98605,108310,9.84
+337, Florida,Franklin ,11637,11901,2.27
+338, Florida,Gadsden ,46574,46006,-1.22
+339, Florida,Gilchrist ,16886,17212,1.93
+340, Florida,Glades ,13007,13970,7.4
+341, Florida,Gulf ,15669,15990,2.05
+342, Florida,Hamilton ,14732,14361,-2.52
+343, Florida,Hardee ,27379,27360,-0.07
+344, Florida,Hendry ,37777,39290,4.01
+345, Florida,Hernando ,173110,182835,5.62
+346, Florida,Highlands ,98045,100917,2.93
+347, Florida,Hillsborough ,1281677,1376238,7.38
+348, Florida,Holmes ,19739,19487,-1.28
+349, Florida,Indian River ,140650,151563,7.76
+350, Florida,Jackson ,49011,48229,-1.6
+351, Florida,Jefferson ,14204,13906,-2.1
+352, Florida,Lafayette ,8811,8617,-2.2
+353, Florida,Lake ,303437,335396,10.53
+354, Florida,Lee ,644096,722336,12.15
+355, Florida,Leon ,283808,287822,1.41
+356, Florida,Levy ,39935,39961,0.07
+357, Florida,Liberty ,8247,8202,-0.55
+358, Florida,Madison ,18939,18224,-3.78
+359, Florida,Manatee ,334096,375888,12.51
+360, Florida,Marion ,334294,349020,4.41
+361, Florida,Martin ,148945,158701,6.55
+362, Florida,Miami-Dade ,2607979,2712945,4.02
+363, Florida,Monroe ,74833,79077,5.67
+364, Florida,Nassau ,74638,80622,8.02
+365, Florida,Okaloosa ,190254,201170,5.74
+366, Florida,Okeechobee ,39287,40314,2.61
+367, Florida,Orange ,1202048,1314367,9.34
+368, Florida,Osceola ,289501,336015,16.07
+369, Florida,Palm Beach ,1354987,1443810,6.56
+370, Florida,Pasco ,470762,512368,8.84
+371, Florida,Pinellas ,922075,960730,4.19
+372, Florida,Polk ,615294,666149,8.27
+373, Florida,Putnam ,73021,72277,-1.02
+374, Florida,St. Johns ,202308,235087,16.2
+375, Florida,St. Lucie ,283726,306507,8.03
+376, Florida,Santa Rosa ,158366,170497,7.66
+377, Florida,Sarasota ,386135,412569,6.85
+378, Florida,Seminole ,431487,455479,5.56
+379, Florida,Sumter ,102790,123996,20.63
+380, Florida,Suwannee ,43492,43794,0.69
+381, Florida,Taylor ,22762,22175,-2.58
+382, Florida,Union ,15235,15142,-0.61
+383, Florida,Volusia ,497279,529364,6.45
+384, Florida,Wakulla ,30805,31893,3.53
+385, Florida,Walton ,57330,65889,14.93
+386, Florida,Washington ,24856,24569,-1.15
+387, Georgia,Appling ,18379,18428,0.27
+388, Georgia,Atkinson ,8255,8273,0.22
+389, Georgia,Bacon ,11188,11372,1.64
+390, Georgia,Baker ,3365,3150,-6.39
+391, Georgia,Baldwin ,46484,45144,-2.88
+392, Georgia,Banks ,18233,18397,0.9
+393, Georgia,Barrow ,70161,77126,9.93
+394, Georgia,Bartow ,100488,103807,3.3
+395, Georgia,Ben Hill ,17570,17243,-1.86
+396, Georgia,Berrien ,19160,18993,-0.87
+397, Georgia,Bibb ,156189,152760,-2.2
+398, Georgia,Bleckley ,12909,12970,0.47
+399, Georgia,Brantley ,18539,18355,-0.99
+400, Georgia,Brooks ,15648,15687,0.25
+401, Georgia,Bryan ,32272,36230,12.26
+402, Georgia,Bulloch ,73162,74722,2.13
+403, Georgia,Burke ,23131,22688,-1.92
+404, Georgia,Butts ,23426,23817,1.67
+405, Georgia,Calhoun ,6489,6324,-2.54
+406, Georgia,Camden ,51407,53008,3.11
+407, Georgia,Candler ,11126,10910,-1.94
+408, Georgia,Carroll ,111444,116261,4.32
+409, Georgia,Catoosa ,65004,66398,2.14
+410, Georgia,Charlton ,13332,12497,-6.26
+411, Georgia,Chatham ,276521,289082,4.54
+412, Georgia,Chattahoochee ,12632,10922,-13.54
+413, Georgia,Chattooga ,25629,24824,-3.14
+414, Georgia,Cherokee ,220788,241689,9.47
+415, Georgia,Clarke ,120174,124707,3.77
+416, Georgia,Clay ,3104,3020,-2.71
+417, Georgia,Clayton ,266073,279462,5.03
+418, Georgia,Clinch ,6732,6829,1.44
+419, Georgia,Cobb ,707629,748150,5.73
+420, Georgia,Coffee ,43140,43012,-0.3
+421, Georgia,Colquitt ,46163,45708,-0.99
+422, Georgia,Columbia ,132518,147450,11.27
+423, Georgia,Cook ,16908,17167,1.53
+424, Georgia,Coweta ,130793,140526,7.44
+425, Georgia,Crawford ,12659,12322,-2.66
+426, Georgia,Crisp ,23555,22721,-3.54
+427, Georgia,Dade ,16534,16257,-1.68
+428, Georgia,Dawson ,22371,23604,5.51
+429, Georgia,Decatur ,27494,26822,-2.44
+430, Georgia,DeKalb ,708800,740321,4.45
+431, Georgia,Dodge ,21343,20563,-3.65
+432, Georgia,Dooly ,14344,13763,-4.05
+433, Georgia,Dougherty ,94590,90017,-4.83
+434, Georgia,Douglas ,133804,142224,6.29
+435, Georgia,Early ,10615,10339,-2.6
+436, Georgia,Echols ,4010,3962,-1.2
+437, Georgia,Effingham ,53400,58712,9.95
+438, Georgia,Elbert ,19596,19143,-2.31
+439, Georgia,Emanuel ,22852,22635,-0.95
+440, Georgia,Evans ,10664,10670,0.06
+441, Georgia,Fannin ,23476,24900,6.07
+442, Georgia,Fayette ,107463,111627,3.87
+443, Georgia,Floyd ,96065,96560,0.52
+444, Georgia,Forsyth ,187613,221009,17.8
+445, Georgia,Franklin ,21955,22320,1.66
+446, Georgia,Fulton ,975321,1023336,4.92
+447, Georgia,Gilmer ,28210,29733,5.4
+448, Georgia,Glascock ,3126,3006,-3.84
+449, Georgia,Glynn ,81026,84502,4.29
+450, Georgia,Gordon ,55674,56904,2.21
+451, Georgia,Grady ,25352,24808,-2.15
+452, Georgia,Greene ,16169,17003,5.16
+453, Georgia,Gwinnett ,839357,907135,8.07
+454, Georgia,Habersham ,43478,44246,1.77
+455, Georgia,Hall ,184929,196637,6.33
+456, Georgia,Hancock ,9050,8640,-4.53
+457, Georgia,Haralson ,28390,29042,2.3
+458, Georgia,Harris ,32611,33652,3.19
+459, Georgia,Hart ,25582,25553,-0.11
+460, Georgia,Heard ,11657,11487,-1.46
+461, Georgia,Henry ,208275,221768,6.48
+462, Georgia,Houston ,146340,152122,3.95
+463, Georgia,Irwin ,9642,9422,-2.28
+464, Georgia,Jackson ,60448,64615,6.89
+465, Georgia,Jasper ,13586,13654,0.5
+466, Georgia,Jeff Davis ,15134,14877,-1.7
+467, Georgia,Jefferson ,16414,15916,-3.03
+468, Georgia,Jenkins ,9143,8849,-3.22
+469, Georgia,Johnson ,9894,9505,-3.93
+470, Georgia,Jones ,28778,28623,-0.54
+471, Georgia,Lamar ,18055,18469,2.29
+472, Georgia,Lanier ,10480,10399,-0.77
+473, Georgia,Laurens ,48004,47516,-1.02
+474, Georgia,Lee ,28748,29337,2.05
+475, Georgia,Liberty ,65426,62570,-4.37
+476, Georgia,Lincoln ,7752,7828,0.98
+477, Georgia,Long ,16164,18437,14.06
+478, Georgia,Lowndes ,114214,114628,0.36
+479, Georgia,Lumpkin ,30705,31445,2.41
+480, Georgia,McDuffie ,21666,21490,-0.81
+481, Georgia,McIntosh ,13842,13927,0.61
+482, Georgia,Macon ,14304,13450,-5.97
+483, Georgia,Madison ,28050,28824,2.76
+484, Georgia,Marion ,8736,8524,-2.43
+485, Georgia,Meriwether ,21325,21074,-1.18
+486, Georgia,Miller ,5971,5926,-0.75
+487, Georgia,Mitchell ,23126,22459,-2.88
+488, Georgia,Monroe ,26741,27306,2.11
+489, Georgia,Montgomery ,8964,9060,1.07
+490, Georgia,Morgan ,17823,18170,1.95
+491, Georgia,Murray ,39392,39315,-0.2
+492, Georgia,Muscogee ,199466,197485,-0.99
+493, Georgia,Newton ,101122,106999,5.81
+494, Georgia,Oconee ,33526,36838,9.88
+495, Georgia,Oglethorpe ,14620,14921,2.06
+496, Georgia,Paulding ,145025,155825,7.45
+497, Georgia,Peach ,27504,26655,-3.09
+498, Georgia,Pickens ,29327,30832,5.13
+499, Georgia,Pierce ,18861,19171,1.64
+500, Georgia,Pike ,17795,17941,0.82
+501, Georgia,Polk ,41105,41776,1.63
+502, Georgia,Pulaski ,11692,11251,-3.77
+503, Georgia,Putnam ,21149,21477,1.55
+504, Georgia,Quitman ,2407,2335,-2.99
+505, Georgia,Rabun ,16314,16559,1.5
+506, Georgia,Randolph ,7317,7177,-1.91
+507, Georgia,Richmond ,201856,201647,-0.1
+508, Georgia,Rockdale ,85625,89355,4.36
+509, Georgia,Schley ,4986,5098,2.25
+510, Georgia,Screven ,14193,14044,-1.05
+511, Georgia,Seminole ,8908,8468,-4.94
+512, Georgia,Spalding ,63727,64806,1.69
+513, Georgia,Stephens ,25701,25751,0.19
+514, Georgia,Stewart ,6127,5705,-6.89
+515, Georgia,Sumter ,31641,30389,-3.96
+516, Georgia,Talbot ,6546,6171,-5.73
+517, Georgia,Taliaferro ,1670,1593,-4.61
+518, Georgia,Tattnall ,25313,25092,-0.87
+519, Georgia,Taylor ,8381,8232,-1.78
+520, Georgia,Telfair ,16418,15965,-2.76
+521, Georgia,Terrell ,9244,8967,-3.0
+522, Georgia,Thomas ,44615,45248,1.42
+523, Georgia,Tift ,40998,40828,-0.41
+524, Georgia,Toombs ,27136,27196,0.22
+525, Georgia,Towns ,10504,11391,8.44
+526, Georgia,Treutlen ,6753,6637,-1.72
+527, Georgia,Troup ,68432,70005,2.3
+528, Georgia,Turner ,8435,8030,-4.8
+529, Georgia,Twiggs ,8513,8171,-4.02
+530, Georgia,Union ,21477,22928,6.76
+531, Georgia,Upson ,26626,26335,-1.09
+532, Georgia,Walker ,68191,67896,-0.43
+533, Georgia,Walton ,84882,90184,6.25
+534, Georgia,Ware ,35859,35738,-0.34
+535, Georgia,Warren ,5568,5442,-2.26
+536, Georgia,Washington ,20864,20457,-1.95
+537, Georgia,Wayne ,30362,30104,-0.85
+538, Georgia,Webster ,2792,2599,-6.91
+539, Georgia,Wheeler ,7911,7978,0.85
+540, Georgia,White ,27591,28884,4.69
+541, Georgia,Whitfield ,103193,104589,1.35
+542, Georgia,Wilcox ,8977,8761,-2.41
+543, Georgia,Wilkes ,10058,9805,-2.52
+544, Georgia,Wilkinson ,9548,9104,-4.65
+545, Georgia,Worth ,21375,20748,-2.93
+546, Hawaii,Hawaii ,188765,198449,5.13
+547, Hawaii,Honolulu ,975909,992605,1.71
+548, Hawaii,Kalawao ,89,88,-1.12
+549, Hawaii,Kauai ,68558,72029,5.06
+550, Hawaii,Maui ,158499,165386,4.35
+551, Idaho,Ada ,408899,444028,8.59
+552, Idaho,Adams ,3909,3900,-0.23
+553, Idaho,Bannock ,83806,84377,0.68
+554, Idaho,Bear Lake ,5901,5945,0.75
+555, Idaho,Benewah ,9125,9092,-0.36
+556, Idaho,Bingham ,45526,45201,-0.71
+557, Idaho,Blaine ,21107,21791,3.24
+558, Idaho,Boise ,6800,7124,4.76
+559, Idaho,Bonner ,40436,42536,5.19
+560, Idaho,Bonneville ,106874,112232,5.01
+561, Idaho,Boundary ,10838,11681,7.78
+562, Idaho,Butte ,2722,2501,-8.12
+563, Idaho,Camas ,1080,1072,-0.74
+564, Idaho,Canyon ,193742,211698,9.27
+565, Idaho,Caribou ,6773,6887,1.68
+566, Idaho,Cassia ,23291,23504,0.91
+567, Idaho,Clark ,874,860,-1.6
+568, Idaho,Clearwater ,8579,8497,-0.96
+569, Idaho,Custer ,4349,4096,-5.82
+570, Idaho,Elmore ,26265,26018,-0.94
+571, Idaho,Franklin ,12826,13406,4.52
+572, Idaho,Fremont ,12986,12943,-0.33
+573, Idaho,Gem ,16688,17184,2.97
+574, Idaho,Gooding ,15238,15185,-0.35
+575, Idaho,Idaho ,16407,16156,-1.53
+576, Idaho,Jefferson ,26658,27839,4.43
+577, Idaho,Jerome ,22491,22994,2.24
+578, Idaho,Kootenai ,142311,154311,8.43
+579, Idaho,Latah ,38187,39196,2.64
+580, Idaho,Lemhi ,7778,7723,-0.71
+581, Idaho,Lewis ,3839,3853,0.36
+582, Idaho,Lincoln ,5260,5271,0.21
+583, Idaho,Madison ,37728,39048,3.5
+584, Idaho,Minidoka ,20113,20616,2.5
+585, Idaho,Nez Perce ,39562,40369,2.04
+586, Idaho,Oneida ,4233,4343,2.6
+587, Idaho,Owyhee ,11398,11389,-0.08
+588, Idaho,Payette ,22672,23026,1.56
+589, Idaho,Power ,7809,7654,-1.98
+590, Idaho,Shoshone ,12739,12452,-2.25
+591, Idaho,Teton ,10083,10960,8.7
+592, Idaho,Twin Falls ,78440,83514,6.47
+593, Idaho,Valley ,9515,10496,10.31
+594, Idaho,Washington ,10054,10172,1.17
+595, Illinois,Adams ,67164,66578,-0.87
+596, Illinois,Alexander ,7712,6478,-16.0
+597, Illinois,Bond ,17508,16824,-3.91
+598, Illinois,Boone ,53802,53503,-0.56
+599, Illinois,Brown ,6894,6762,-1.91
+600, Illinois,Bureau ,34350,33359,-2.89
+601, Illinois,Calhoun ,5021,4894,-2.53
+602, Illinois,Carroll ,15075,14539,-3.56
+603, Illinois,Cass ,13411,12676,-5.48
+604, Illinois,Champaign ,203937,208419,2.2
+605, Illinois,Christian ,34520,33309,-3.51
+606, Illinois,Clark ,16301,15938,-2.23
+607, Illinois,Clay ,13717,13300,-3.04
+608, Illinois,Clinton ,38071,37729,-0.9
+609, Illinois,Coles ,53344,52343,-1.88
+610, Illinois,Cook ,5230016,5203499,-0.51
+611, Illinois,Crawford ,19621,19308,-1.6
+612, Illinois,Cumberland ,10942,10858,-0.77
+613, Illinois,DeKalb ,104276,104528,0.24
+614, Illinois,De Witt ,16497,16226,-1.64
+615, Illinois,Douglas ,19822,19630,-0.97
+616, Illinois,DuPage ,927668,929368,0.18
+617, Illinois,Edgar ,18174,17566,-3.35
+618, Illinois,Edwards ,6726,6523,-3.02
+619, Illinois,Effingham ,34351,34386,0.1
+620, Illinois,Fayette ,22130,21789,-1.54
+621, Illinois,Ford ,13982,13575,-2.91
+622, Illinois,Franklin ,39874,39156,-1.8
+623, Illinois,Fulton ,36624,35536,-2.97
+624, Illinois,Gallatin ,5419,5212,-3.82
+625, Illinois,Greene ,13631,13093,-3.95
+626, Illinois,Grundy ,50168,50437,0.54
+627, Illinois,Hamilton ,8372,8061,-3.71
+628, Illinois,Hancock ,18893,18508,-2.04
+629, Illinois,Hardin ,4263,4024,-5.61
+630, Illinois,Henderson ,7049,6869,-2.55
+631, Illinois,Henry ,50160,49280,-1.75
+632, Illinois,Iroquois ,29300,28334,-3.3
+633, Illinois,Jackson ,58962,58870,-0.16
+634, Illinois,Jasper ,9646,9536,-1.14
+635, Illinois,Jefferson ,38666,38460,-0.53
+636, Illinois,Jersey ,22732,22025,-3.11
+637, Illinois,Jo Daviess ,22496,21770,-3.23
+638, Illinois,Johnson ,12912,12902,-0.08
+639, Illinois,Kane ,521431,531715,1.97
+640, Illinois,Kankakee ,112976,110008,-2.63
+641, Illinois,Kendall ,118344,124695,5.37
+642, Illinois,Knox ,52302,50938,-2.61
+643, Illinois,Lake ,701220,703047,0.26
+644, Illinois,LaSalle ,113109,110642,-2.18
+645, Illinois,Lawrence ,16682,16377,-1.83
+646, Illinois,Lee ,35114,34251,-2.46
+647, Illinois,Livingston ,38553,36526,-5.26
+648, Illinois,Logan ,30388,29527,-2.83
+649, Illinois,McDonough ,32516,30996,-4.67
+650, Illinois,McHenry ,307529,307004,-0.17
+651, Illinois,McLean ,172560,172418,-0.08
+652, Illinois,Macon ,110083,106550,-3.21
+653, Illinois,Macoupin ,47179,45908,-2.69
+654, Illinois,Madison ,268083,265759,-0.87
+655, Illinois,Marion ,38919,38140,-2.0
+656, Illinois,Marshall ,12274,11939,-2.73
+657, Illinois,Mason ,14346,13507,-5.85
+658, Illinois,Massac ,15149,14658,-3.24
+659, Illinois,Menard ,12726,12516,-1.65
+660, Illinois,Mercer ,16190,15730,-2.84
+661, Illinois,Monroe ,33321,34068,2.24
+662, Illinois,Montgomery ,29605,28952,-2.21
+663, Illinois,Morgan ,35365,34277,-3.08
+664, Illinois,Moultrie ,14984,14827,-1.05
+665, Illinois,Ogle ,52834,51273,-2.95
+666, Illinois,Peoria ,187121,185006,-1.13
+667, Illinois,Perry ,21862,21357,-2.31
+668, Illinois,Piatt ,16523,16560,0.22
+669, Illinois,Pike ,16261,15950,-1.91
+670, Illinois,Pope ,4333,4157,-4.06
+671, Illinois,Pulaski ,5968,5619,-5.85
+672, Illinois,Putnam ,5880,5611,-4.57
+673, Illinois,Randolph ,32987,32621,-1.11
+674, Illinois,Richland ,16182,15930,-1.56
+675, Illinois,Rock Island ,147638,144784,-1.93
+676, Illinois,St. Clair ,268612,262759,-2.18
+677, Illinois,Saline ,24970,24307,-2.66
+678, Illinois,Sangamon ,199269,197499,-0.89
+679, Illinois,Schuyler ,7458,6923,-7.17
+680, Illinois,Scott ,5293,5053,-4.53
+681, Illinois,Shelby ,22252,21717,-2.4
+682, Illinois,Stark ,5937,5776,-2.71
+683, Illinois,Stephenson ,46938,45624,-2.8
+684, Illinois,Tazewell ,136111,134385,-1.27
+685, Illinois,Union ,17639,17212,-2.42
+686, Illinois,Vermilion ,80774,78111,-3.3
+687, Illinois,Wabash ,11722,11492,-1.96
+688, Illinois,Warren ,17736,17378,-2.02
+689, Illinois,Washington ,14618,14154,-3.17
+690, Illinois,Wayne ,16624,16396,-1.37
+691, Illinois,White ,14562,14292,-1.85
+692, Illinois,Whiteside ,57786,56536,-2.16
+693, Illinois,Will ,682091,689529,1.09
+694, Illinois,Williamson ,66793,67560,1.15
+695, Illinois,Winnebago ,291934,285873,-2.08
+696, Illinois,Woodford ,38943,39140,0.51
+697, Indiana,Adams ,34439,35232,2.3
+698, Indiana,Allen ,360753,370404,2.68
+699, Indiana,Bartholomew ,78927,81402,3.14
+700, Indiana,Benton ,8812,8650,-1.84
+701, Indiana,Blackford ,12535,12149,-3.08
+702, Indiana,Boone ,59070,64653,9.45
+703, Indiana,Brown ,15051,14912,-0.92
+704, Indiana,Carroll ,20129,19970,-0.79
+705, Indiana,Cass ,38710,37946,-1.97
+706, Indiana,Clark ,111912,116031,3.68
+707, Indiana,Clay ,26825,26309,-1.92
+708, Indiana,Clinton ,32942,32457,-1.47
+709, Indiana,Crawford ,10650,10539,-1.04
+710, Indiana,Daviess ,32139,32969,2.58
+711, Indiana,Dearborn ,49751,49331,-0.84
+712, Indiana,Decatur ,26049,26598,2.11
+713, Indiana,DeKalb ,42304,42746,1.04
+714, Indiana,Delaware ,117090,115603,-1.27
+715, Indiana,Dubois ,42090,42552,1.1
+716, Indiana,Elkhart ,199172,203781,2.31
+717, Indiana,Fayette ,23953,23331,-2.6
+718, Indiana,Floyd ,75344,76990,2.18
+719, Indiana,Fountain ,17103,16486,-3.61
+720, Indiana,Franklin ,22993,22715,-1.21
+721, Indiana,Fulton ,20655,20139,-2.5
+722, Indiana,Gibson ,33565,33703,0.41
+723, Indiana,Grant ,69198,66937,-3.27
+724, Indiana,Greene ,33001,32211,-2.39
+725, Indiana,Hamilton ,289681,316373,9.21
+726, Indiana,Hancock ,70645,73717,4.35
+727, Indiana,Harrison ,39064,39826,1.95
+728, Indiana,Hendricks ,150773,160610,6.52
+729, Indiana,Henry ,49256,48521,-1.49
+730, Indiana,Howard ,82914,82568,-0.42
+731, Indiana,Huntington ,36993,36400,-1.6
+732, Indiana,Jackson ,43028,44013,2.29
+733, Indiana,Jasper ,33473,33433,-0.12
+734, Indiana,Jay ,21368,21046,-1.51
+735, Indiana,Jefferson ,32510,32418,-0.28
+736, Indiana,Jennings ,28182,27758,-1.5
+737, Indiana,Johnson ,143535,151982,5.88
+738, Indiana,Knox ,38019,37744,-0.72
+739, Indiana,Kosciusko ,77731,79092,1.75
+740, Indiana,LaGrange ,37651,39110,3.88
+741, Indiana,Lake ,493071,485846,-1.47
+742, Indiana,LaPorte ,111201,110015,-1.07
+743, Indiana,Lawrence ,46032,45518,-1.12
+744, Indiana,Madison ,130243,129296,-0.73
+745, Indiana,Marion ,918692,941229,2.45
+746, Indiana,Marshall ,46972,46556,-0.89
+747, Indiana,Martin ,10314,10171,-1.39
+748, Indiana,Miami ,36504,35883,-1.7
+749, Indiana,Monroe ,141311,145496,2.96
+750, Indiana,Montgomery ,38171,38074,-0.25
+751, Indiana,Morgan ,69204,69698,0.71
+752, Indiana,Newton ,14062,13924,-0.98
+753, Indiana,Noble ,47429,47638,0.44
+754, Indiana,Ohio ,6107,5932,-2.87
+755, Indiana,Orange ,19677,19335,-1.74
+756, Indiana,Owen ,21362,20840,-2.44
+757, Indiana,Parke ,17089,16800,-1.69
+758, Indiana,Perry ,19416,18966,-2.32
+759, Indiana,Pike ,12716,12431,-2.24
+760, Indiana,Porter ,165772,167791,1.22
+761, Indiana,Posey ,25627,25476,-0.59
+762, Indiana,Pulaski ,13060,12660,-3.06
+763, Indiana,Putnam ,37725,37436,-0.77
+764, Indiana,Randolph ,25856,25082,-2.99
+765, Indiana,Ripley ,28571,28846,0.96
+766, Indiana,Rush ,17133,16649,-2.82
+767, Indiana,St. Joseph ,266612,269141,0.95
+768, Indiana,Scott ,23769,23730,-0.16
+769, Indiana,Shelby ,44345,44324,-0.05
+770, Indiana,Spencer ,20866,20648,-1.04
+771, Indiana,Starke ,23195,23009,-0.8
+772, Indiana,Steuben ,34164,34116,-0.14
+773, Indiana,Sullivan ,21216,20802,-1.95
+774, Indiana,Switzerland ,10395,10527,1.27
+775, Indiana,Tippecanoe ,178430,188059,5.4
+776, Indiana,Tipton ,15728,15182,-3.47
+777, Indiana,Union ,7334,7212,-1.66
+778, Indiana,Vanderburgh ,181031,181721,0.38
+779, Indiana,Vermillion ,15941,15645,-1.86
+780, Indiana,Vigo ,108528,107931,-0.55
+781, Indiana,Wabash ,32437,31762,-2.08
+782, Indiana,Warren ,8391,8166,-2.68
+783, Indiana,Warrick ,60458,62498,3.37
+784, Indiana,Washington ,27911,27670,-0.86
+785, Indiana,Wayne ,68304,66568,-2.54
+786, Indiana,Wells ,27713,27949,0.85
+787, Indiana,White ,24390,23999,-1.6
+788, Indiana,Whitley ,33283,33449,0.5
+789, Iowa,Adair ,7493,7092,-5.35
+790, Iowa,Adams ,3905,3693,-5.43
+791, Iowa,Allamakee ,14134,13884,-1.77
+792, Iowa,Appanoose ,12702,12462,-1.89
+793, Iowa,Audubon ,5883,5678,-3.48
+794, Iowa,Benton ,25855,25699,-0.6
+795, Iowa,Black Hawk ,131761,132904,0.87
+796, Iowa,Boone ,26228,26532,1.16
+797, Iowa,Bremer ,24477,24798,1.31
+798, Iowa,Buchanan ,20964,20992,0.13
+799, Iowa,Buena Vista ,20543,20332,-1.03
+800, Iowa,Butler ,14991,14791,-1.33
+801, Iowa,Calhoun ,9924,9846,-0.79
+802, Iowa,Carroll ,20685,20437,-1.2
+803, Iowa,Cass ,13711,13157,-4.04
+804, Iowa,Cedar ,18402,18454,0.28
+805, Iowa,Cerro Gordo ,43723,43070,-1.49
+806, Iowa,Cherokee ,11959,11508,-3.77
+807, Iowa,Chickasaw ,12284,12023,-2.12
+808, Iowa,Clarke ,9351,9309,-0.45
+809, Iowa,Clay ,16576,16333,-1.47
+810, Iowa,Clayton ,17926,17590,-1.87
+811, Iowa,Clinton ,48716,47309,-2.89
+812, Iowa,Crawford ,17325,16940,-2.22
+813, Iowa,Dallas ,72271,84516,16.94
+814, Iowa,Davis ,8697,8860,1.87
+815, Iowa,Decatur ,8255,8141,-1.38
+816, Iowa,Delaware ,17578,17327,-1.43
+817, Iowa,Des Moines ,40265,39739,-1.31
+818, Iowa,Dickinson ,16986,17243,1.51
+819, Iowa,Dubuque ,95211,97003,1.88
+820, Iowa,Emmet ,9964,9658,-3.07
+821, Iowa,Fayette ,20803,20054,-3.6
+822, Iowa,Floyd ,16107,15873,-1.45
+823, Iowa,Franklin ,10523,10170,-3.35
+824, Iowa,Fremont ,7143,6950,-2.7
+825, Iowa,Greene ,9171,9011,-1.74
+826, Iowa,Grundy ,12440,12313,-1.02
+827, Iowa,Guthrie ,10777,10625,-1.41
+828, Iowa,Hamilton ,15327,15076,-1.64
+829, Iowa,Hancock ,11165,10835,-2.96
+830, Iowa,Hardin ,17353,17226,-0.73
+831, Iowa,Harrison ,14522,14149,-2.57
+832, Iowa,Henry ,20044,19773,-1.35
+833, Iowa,Howard ,9576,9332,-2.55
+834, Iowa,Humboldt ,9720,9487,-2.4
+835, Iowa,Ida ,7091,6985,-1.49
+836, Iowa,Iowa ,16218,16311,0.57
+837, Iowa,Jackson ,19693,19472,-1.12
+838, Iowa,Jasper ,36566,36708,0.39
+839, Iowa,Jefferson ,17201,18090,5.17
+840, Iowa,Johnson ,136865,146547,7.07
+841, Iowa,Jones ,20595,20439,-0.76
+842, Iowa,Keokuk ,10397,10119,-2.67
+843, Iowa,Kossuth ,15373,15114,-1.68
+844, Iowa,Lee ,35610,34615,-2.79
+845, Iowa,Linn ,215255,221661,2.98
+846, Iowa,Louisa ,11340,11142,-1.75
+847, Iowa,Lucas ,8754,8647,-1.22
+848, Iowa,Lyon ,11772,11754,-0.15
+849, Iowa,Madison ,15639,15848,1.34
+850, Iowa,Mahaska ,22419,22181,-1.06
+851, Iowa,Marion ,33315,33189,-0.38
+852, Iowa,Marshall ,41053,40312,-1.8
+853, Iowa,Mills ,14853,14972,0.8
+854, Iowa,Mitchell ,10746,10763,0.16
+855, Iowa,Monona ,9138,8898,-2.63
+856, Iowa,Monroe ,8066,7870,-2.43
+857, Iowa,Montgomery ,10567,10225,-3.24
+858, Iowa,Muscatine ,42884,42940,0.13
+859, Iowa,O'Brien ,14161,14020,-1.0
+860, Iowa,Osceola ,6180,6064,-1.88
+861, Iowa,Page ,15750,15391,-2.28
+862, Iowa,Palo Alto ,9281,9047,-2.52
+863, Iowa,Plymouth ,24888,25200,1.25
+864, Iowa,Pocahontas ,7161,6886,-3.84
+865, Iowa,Polk ,443821,474045,6.81
+866, Iowa,Pottawattamie ,92887,93582,0.75
+867, Iowa,Poweshiek ,18766,18533,-1.24
+868, Iowa,Ringgold ,5082,5068,-0.28
+869, Iowa,Sac ,10177,9876,-2.96
+870, Iowa,Scott ,168840,172474,2.15
+871, Iowa,Shelby ,12082,11800,-2.33
+872, Iowa,Sioux ,34339,34898,1.63
+873, Iowa,Story ,91799,97090,5.76
+874, Iowa,Tama ,17536,17319,-1.24
+875, Iowa,Taylor ,6237,6216,-0.34
+876, Iowa,Union ,12599,12420,-1.42
+877, Iowa,Van Buren ,7456,7271,-2.48
+878, Iowa,Wapello ,35357,34982,-1.06
+879, Iowa,Warren ,46991,49691,5.75
+880, Iowa,Washington ,21928,22281,1.61
+881, Iowa,Wayne ,6364,6452,1.38
+882, Iowa,Webster ,37252,36769,-1.3
+883, Iowa,Winnebago ,10634,10631,-0.03
+884, Iowa,Winneshiek ,21042,20561,-2.29
+885, Iowa,Woodbury ,102330,102779,0.44
+886, Iowa,Worth ,7525,7572,0.62
+887, Iowa,Wright ,13019,12779,-1.84
+888, Kansas,Allen ,13336,12714,-4.66
+889, Kansas,Anderson ,7912,7827,-1.07
+890, Kansas,Atchison ,16793,16380,-2.46
+891, Kansas,Barber ,4866,4688,-3.66
+892, Kansas,Barton ,27515,26775,-2.69
+893, Kansas,Bourbon ,14844,14617,-1.53
+894, Kansas,Brown ,9879,9684,-1.97
+895, Kansas,Butler ,65781,67025,1.89
+896, Kansas,Chase ,2752,2669,-3.02
+897, Kansas,Chautauqua ,3565,3374,-5.36
+898, Kansas,Cherokee ,21201,20246,-4.5
+899, Kansas,Cheyenne ,2677,2661,-0.6
+900, Kansas,Clark ,2179,2072,-4.91
+901, Kansas,Clay ,8508,8143,-4.29
+902, Kansas,Cloud ,9407,9150,-2.73
+903, Kansas,Coffey ,8507,8433,-0.87
+904, Kansas,Comanche ,1910,1862,-2.51
+905, Kansas,Cowley ,36262,35753,-1.4
+906, Kansas,Crawford ,39369,39164,-0.52
+907, Kansas,Decatur ,2877,2832,-1.56
+908, Kansas,Dickinson ,19731,19064,-3.38
+909, Kansas,Doniphan ,7869,7664,-2.61
+910, Kansas,Douglas ,113304,119440,5.42
+911, Kansas,Edwards ,2980,2938,-1.41
+912, Kansas,Elk ,2678,2547,-4.89
+913, Kansas,Ellis ,29125,28893,-0.8
+914, Kansas,Ellsworth ,6471,6328,-2.21
+915, Kansas,Finney ,37114,36722,-1.06
+916, Kansas,Ford ,34729,33971,-2.18
+917, Kansas,Franklin ,25859,25560,-1.16
+918, Kansas,Geary ,37947,35586,-6.22
+919, Kansas,Gove ,2722,2589,-4.89
+920, Kansas,Graham ,2587,2564,-0.89
+921, Kansas,Grant ,7824,7646,-2.28
+922, Kansas,Gray ,5983,6034,0.85
+923, Kansas,Greeley ,1270,1296,2.05
+924, Kansas,Greenwood ,6440,6151,-4.49
+925, Kansas,Hamilton ,2635,2536,-3.76
+926, Kansas,Harper ,5859,5685,-2.97
+927, Kansas,Harvey ,34796,34913,0.34
+928, Kansas,Haskell ,4196,4006,-4.53
+929, Kansas,Hodgeman ,1964,1870,-4.79
+930, Kansas,Jackson ,13417,13291,-0.94
+931, Kansas,Jefferson ,18921,18897,-0.13
+932, Kansas,Jewell ,3040,2901,-4.57
+933, Kansas,Johnson ,559515,584451,4.46
+934, Kansas,Kearny ,3983,3917,-1.66
+935, Kansas,Kingman ,7831,7467,-4.65
+936, Kansas,Kiowa ,2505,2483,-0.88
+937, Kansas,Labette ,21206,20444,-3.59
+938, Kansas,Lane ,1701,1636,-3.82
+939, Kansas,Leavenworth ,77713,80204,3.21
+940, Kansas,Lincoln ,3170,3073,-3.06
+941, Kansas,Linn ,9482,9558,0.8
+942, Kansas,Logan ,2792,2831,1.4
+943, Kansas,Lyon ,33534,33510,-0.07
+944, Kansas,McPherson ,29341,28804,-1.83
+945, Kansas,Marion ,12379,12112,-2.16
+946, Kansas,Marshall ,10065,9836,-2.28
+947, Kansas,Meade ,4397,4216,-4.12
+948, Kansas,Miami ,32622,32964,1.05
+949, Kansas,Mitchell ,6334,6243,-1.44
+950, Kansas,Montgomery ,34447,32746,-4.94
+951, Kansas,Morris ,5852,5573,-4.77
+952, Kansas,Morton ,3133,2848,-9.1
+953, Kansas,Nemaha ,10117,10241,1.23
+954, Kansas,Neosho ,16462,16146,-1.92
+955, Kansas,Ness ,3083,2962,-3.92
+956, Kansas,Norton ,5597,5493,-1.86
+957, Kansas,Osage ,16170,15843,-2.02
+958, Kansas,Osborne ,3818,3642,-4.61
+959, Kansas,Ottawa ,6062,5920,-2.34
+960, Kansas,Pawnee ,6894,6743,-2.19
+961, Kansas,Phillips ,5516,5428,-1.6
+962, Kansas,Pottawatomie ,22335,23661,5.94
+963, Kansas,Pratt ,9772,9584,-1.92
+964, Kansas,Rawlins ,2540,2549,0.35
+965, Kansas,Reno ,64245,63220,-1.6
+966, Kansas,Republic ,4847,4699,-3.05
+967, Kansas,Rice ,10000,9831,-1.69
+968, Kansas,Riley ,76273,73343,-3.84
+969, Kansas,Rooks ,5212,5076,-2.61
+970, Kansas,Rush ,3208,3058,-4.68
+971, Kansas,Russell ,6978,6988,0.14
+972, Kansas,Saline ,55838,55142,-1.25
+973, Kansas,Scott ,4870,5032,3.33
+974, Kansas,Sedgwick ,503945,511995,1.6
+975, Kansas,Seward ,23403,22709,-2.97
+976, Kansas,Shawnee ,178980,178146,-0.47
+977, Kansas,Sheridan ,2531,2509,-0.87
+978, Kansas,Sherman ,6106,5965,-2.31
+979, Kansas,Smith ,3751,3632,-3.17
+980, Kansas,Stafford ,4343,4208,-3.11
+981, Kansas,Stanton ,2163,2062,-4.67
+982, Kansas,Stevens ,5748,5584,-2.85
+983, Kansas,Sumner ,23701,23272,-1.81
+984, Kansas,Thomas ,7938,7892,-0.58
+985, Kansas,Trego ,2969,2872,-3.27
+986, Kansas,Wabaunsee ,7007,6891,-1.66
+987, Kansas,Wallace ,1528,1497,-2.03
+988, Kansas,Washington ,5726,5546,-3.14
+989, Kansas,Wichita ,2230,2112,-5.29
+990, Kansas,Wilson ,9126,8723,-4.42
+991, Kansas,Woodson ,3267,3165,-3.12
+992, Kansas,Wyandotte ,159360,163831,2.81
+993, Kentucky,Adair ,18931,19280,1.84
+994, Kentucky,Allen ,20232,20631,1.97
+995, Kentucky,Anderson ,21660,22158,2.3
+996, Kentucky,Ballard ,8311,8054,-3.09
+997, Kentucky,Barren ,42645,43993,3.16
+998, Kentucky,Bath ,11802,12327,4.45
+999, Kentucky,Bell ,28247,27117,-4.0
+1000, Kentucky,Boone ,122847,128536,4.63
+1001, Kentucky,Bourbon ,19985,20030,0.23
+1002, Kentucky,Boyd ,49256,48132,-2.28
+1003, Kentucky,Boyle ,28993,30018,3.54
+1004, Kentucky,Bracken ,8468,8400,-0.8
+1005, Kentucky,Breathitt ,13657,13284,-2.73
+1006, Kentucky,Breckinridge ,20095,19961,-0.67
+1007, Kentucky,Bullitt ,75947,79151,4.22
+1008, Kentucky,Butler ,12794,12845,0.4
+1009, Kentucky,Caldwell ,12938,12568,-2.86
+1010, Kentucky,Calloway ,38057,38437,1.0
+1011, Kentucky,Campbell ,90780,92211,1.58
+1012, Kentucky,Carlisle ,5042,4855,-3.71
+1013, Kentucky,Carroll ,10869,10679,-1.75
+1014, Kentucky,Carter ,27473,27046,-1.55
+1015, Kentucky,Casey ,16081,15815,-1.65
+1016, Kentucky,Christian ,75638,72351,-4.35
+1017, Kentucky,Clark ,35752,35819,0.19
+1018, Kentucky,Clay ,21565,20766,-3.71
+1019, Kentucky,Clinton ,10243,10177,-0.64
+1020, Kentucky,Crittenden ,9259,9188,-0.77
+1021, Kentucky,Cumberland ,6861,6738,-1.79
+1022, Kentucky,Daviess ,97886,99674,1.83
+1023, Kentucky,Edmonson ,12141,12114,-0.22
+1024, Kentucky,Elliott ,7761,7588,-2.23
+1025, Kentucky,Estill ,14488,14307,-1.25
+1026, Kentucky,Fayette ,305201,318449,4.34
+1027, Kentucky,Fleming ,14547,14507,-0.27
+1028, Kentucky,Floyd ,39232,37110,-5.41
+1029, Kentucky,Franklin ,49514,50560,2.11
+1030, Kentucky,Fulton ,6536,6179,-5.46
+1031, Kentucky,Gallatin ,8491,8609,1.39
+1032, Kentucky,Garrard ,16953,17292,2.0
+1033, Kentucky,Grant ,24489,24923,1.77
+1034, Kentucky,Graves ,37535,37182,-0.94
+1035, Kentucky,Grayson ,25864,26184,1.24
+1036, Kentucky,Green ,11317,11060,-2.27
+1037, Kentucky,Greenup ,36647,35893,-2.06
+1038, Kentucky,Hancock ,8666,8810,1.66
+1039, Kentucky,Hardin ,107173,107316,0.13
+1040, Kentucky,Harlan ,28715,27168,-5.39
+1041, Kentucky,Harrison ,18602,18646,0.24
+1042, Kentucky,Hart ,18409,18627,1.18
+1043, Kentucky,Henderson ,46445,46253,-0.41
+1044, Kentucky,Henry ,15325,15818,3.22
+1045, Kentucky,Hickman ,4751,4627,-2.61
+1046, Kentucky,Hopkins ,46707,45904,-1.72
+1047, Kentucky,Jackson ,13315,13368,0.4
+1048, Kentucky,Jefferson ,751342,765352,1.86
+1049, Kentucky,Jessamine ,49550,52357,5.66
+1050, Kentucky,Johnson ,23441,22978,-1.98
+1051, Kentucky,Kenton ,161297,164945,2.26
+1052, Kentucky,Knott ,16124,15544,-3.6
+1053, Kentucky,Knox ,31741,31687,-0.17
+1054, Kentucky,Larue ,14093,14096,0.02
+1055, Kentucky,Laurel ,59603,60250,1.09
+1056, Kentucky,Lawrence ,15846,15863,0.11
+1057, Kentucky,Lee ,7551,6580,-12.86
+1058, Kentucky,Leslie ,11170,10538,-5.66
+1059, Kentucky,Letcher ,24039,22773,-5.27
+1060, Kentucky,Lewis ,13754,13442,-2.27
+1061, Kentucky,Lincoln ,24431,24372,-0.24
+1062, Kentucky,Livingston ,9448,9269,-1.89
+1063, Kentucky,Logan ,26682,26593,-0.33
+1064, Kentucky,Lyon ,8440,8069,-4.4
+1065, Kentucky,McCracken ,65635,65162,-0.72
+1066, Kentucky,McCreary ,18058,17511,-3.03
+1067, Kentucky,McLean ,9526,9475,-0.54
+1068, Kentucky,Madison ,85517,89547,4.71
+1069, Kentucky,Magoffin ,13050,12684,-2.8
+1070, Kentucky,Marion ,19974,19205,-3.85
+1071, Kentucky,Marshall ,31289,31365,0.24
+1072, Kentucky,Martin ,12788,12002,-6.15
+1073, Kentucky,Mason ,17458,17190,-1.54
+1074, Kentucky,Meade ,29301,28126,-4.01
+1075, Kentucky,Menifee ,6323,6408,1.34
+1076, Kentucky,Mercer ,21373,21477,0.49
+1077, Kentucky,Metcalfe ,9999,10018,0.19
+1078, Kentucky,Monroe ,10844,10588,-2.36
+1079, Kentucky,Montgomery ,26894,27771,3.26
+1080, Kentucky,Morgan ,13531,13298,-1.72
+1081, Kentucky,Muhlenberg ,31377,31028,-1.11
+1082, Kentucky,Nelson ,44376,45559,2.67
+1083, Kentucky,Nicholas ,7027,7084,0.81
+1084, Kentucky,Ohio ,24056,24378,1.34
+1085, Kentucky,Oldham ,62104,65560,5.56
+1086, Kentucky,Owen ,10754,10642,-1.04
+1087, Kentucky,Owsley ,4691,4491,-4.26
+1088, Kentucky,Pendleton ,14523,14560,0.25
+1089, Kentucky,Perry ,28376,27343,-3.64
+1090, Kentucky,Pike ,64645,60555,-6.33
+1091, Kentucky,Powell ,12483,12308,-1.4
+1092, Kentucky,Pulaski ,63508,63956,0.71
+1093, Kentucky,Robertson ,2220,2155,-2.93
+1094, Kentucky,Rockcastle ,17084,16850,-1.37
+1095, Kentucky,Rowan ,23873,24451,2.42
+1096, Kentucky,Russell ,17566,17722,0.89
+1097, Kentucky,Scott ,49066,53972,10.0
+1098, Kentucky,Shelby ,43651,46408,6.32
+1099, Kentucky,Simpson ,17592,18083,2.79
+1100, Kentucky,Spencer ,17426,18274,4.87
+1101, Kentucky,Taylor ,25077,25397,1.28
+1102, Kentucky,Todd ,12639,12295,-2.72
+1103, Kentucky,Trigg ,14409,14264,-1.01
+1104, Kentucky,Trimble ,8830,8620,-2.38
+1105, Kentucky,Union ,15114,14880,-1.55
+1106, Kentucky,Warren ,117040,125532,7.26
+1107, Kentucky,Washington ,11879,12189,2.61
+1108, Kentucky,Wayne ,20789,20453,-1.62
+1109, Kentucky,Webster ,13476,13316,-1.19
+1110, Kentucky,Whitley ,35621,36096,1.33
+1111, Kentucky,Wolfe ,7205,7159,-0.64
+1112, Kentucky,Woodford ,25072,26124,4.2
+1113, Louisiana,Acadia ,61884,62645,1.23
+1114, Louisiana,Allen ,25566,25684,0.46
+1115, Louisiana,Ascension ,112235,121587,8.33
+1116, Louisiana,Assumption ,23089,22695,-1.71
+1117, Louisiana,Avoyelles ,41612,41117,-1.19
+1118, Louisiana,Beauregard ,36313,36927,1.69
+1119, Louisiana,Bienville ,14167,13865,-2.13
+1120, Louisiana,Bossier ,123165,126057,2.35
+1121, Louisiana,Caddo ,257396,248851,-3.32
+1122, Louisiana,Calcasieu ,194563,200601,3.1
+1123, Louisiana,Caldwell ,10012,10087,0.75
+1124, Louisiana,Cameron ,6627,6882,3.85
+1125, Louisiana,Catahoula ,10263,9921,-3.33
+1126, Louisiana,Claiborne ,16851,16132,-4.27
+1127, Louisiana,Concordia ,20458,19920,-2.63
+1128, Louisiana,De Soto ,26991,27149,0.59
+1129, Louisiana,East Baton Rouge ,443039,447037,0.9
+1130, Louisiana,East Carroll ,7573,7271,-3.99
+1131, Louisiana,East Feliciana ,19943,19683,-1.3
+1132, Louisiana,Evangeline ,33754,33709,-0.13
+1133, Louisiana,Franklin ,20605,20330,-1.33
+1134, Louisiana,Grant ,22404,22365,-0.17
+1135, Louisiana,Iberia ,73890,73273,-0.84
+1136, Louisiana,Iberville ,33319,32920,-1.2
+1137, Louisiana,Jackson ,16237,15808,-2.64
+1138, Louisiana,Jefferson ,434312,436523,0.51
+1139, Louisiana,Jefferson Davis ,31441,31413,-0.09
+1140, Louisiana,Lafayette ,227083,241398,6.3
+1141, Louisiana,Lafourche,97074,98305,1.27
+1142, Louisiana,LaSalle ,14877,15052,1.18
+1143, Louisiana,Lincoln ,47123,47745,1.32
+1144, Louisiana,Livingston ,131940,140138,6.21
+1145, Louisiana,Madison ,12206,11528,-5.55
+1146, Louisiana,Morehouse ,27454,26071,-5.04
+1147, Louisiana,Natchitoches ,39491,39162,-0.83
+1148, Louisiana,Orleans ,370138,391495,5.77
+1149, Louisiana,Ouachita ,155342,156983,1.06
+1150, Louisiana,Plaquemines ,23893,23464,-1.8
+1151, Louisiana,Pointe Coupee ,22706,22159,-2.41
+1152, Louisiana,Rapides ,132184,132424,0.18
+1153, Louisiana,Red River ,9032,8550,-5.34
+1154, Louisiana,Richland ,20912,20430,-2.3
+1155, Louisiana,Sabine ,24310,23977,-1.37
+1156, Louisiana,St. Bernard ,41519,45688,10.04
+1157, Louisiana,St. Charles ,52484,52923,0.84
+1158, Louisiana,St. Helena ,11036,10512,-4.75
+1159, Louisiana,St. James ,21665,21557,-0.5
+1160, Louisiana,St. John the Baptist ,44760,43631,-2.52
+1161, Louisiana,St. Landry ,83490,83883,0.47
+1162, Louisiana,St. Martin ,52729,54007,2.42
+1163, Louisiana,St. Mary ,53554,52093,-2.73
+1164, Louisiana,St. Tammany ,239323,253602,5.97
+1165, Louisiana,Tangipahoa ,123655,130710,5.71
+1166, Louisiana,Tensas ,4965,4597,-7.41
+1167, Louisiana,Terrebonne ,111804,113220,1.27
+1168, Louisiana,Union ,22506,22487,-0.08
+1169, Louisiana,Vermilion ,58637,60205,2.67
+1170, Louisiana,Vernon ,54179,50569,-6.66
+1171, Louisiana,Washington ,46641,46310,-0.71
+1172, Louisiana,Webster ,40919,39710,-2.95
+1173, Louisiana,West Baton Rouge ,24096,25795,7.05
+1174, Louisiana,West Carroll ,11497,11114,-3.33
+1175, Louisiana,West Feliciana ,15442,15344,-0.63
+1176, Louisiana,Winn ,15054,14376,-4.5
+1177, Maine,Androscoggin ,107539,107319,-0.2
+1178, Maine,Aroostook ,70774,67959,-3.98
+1179, Maine,Cumberland ,284133,292041,2.78
+1180, Maine,Franklin ,30629,30001,-2.05
+1181, Maine,Hancock ,54542,54419,-0.23
+1182, Maine,Kennebec ,121636,120569,-0.88
+1183, Maine,Knox ,39639,39744,0.26
+1184, Maine,Lincoln ,34222,34216,-0.02
+1185, Maine,Oxford ,57490,57217,-0.47
+1186, Maine,Penobscot ,153589,151806,-1.16
+1187, Maine,Piscataquis ,17258,16843,-2.4
+1188, Maine,Sagadahoc ,35109,35273,0.47
+1189, Maine,Somerset ,51854,50915,-1.81
+1190, Maine,Waldo ,38914,39364,1.16
+1191, Maine,Washington ,32514,31450,-3.27
+1192, Maine,York ,199053,202343,1.65
+1193, Maryland,Allegany ,73975,72130,-2.49
+1194, Maryland,Anne Arundel ,550641,568346,3.22
+1195, Maryland,Baltimore ,818282,831026,1.56
+1196, Maryland,Calvert ,89685,91251,1.75
+1197, Maryland,Caroline ,32640,32850,0.64
+1198, Maryland,Carroll ,167191,167656,0.28
+1199, Maryland,Cecil ,101776,102603,0.81
+1200, Maryland,Charles ,150770,157705,4.6
+1201, Maryland,Dorchester ,32476,32258,-0.67
+1202, Maryland,Frederick ,239610,247591,3.33
+1203, Maryland,Garrett ,29904,29425,-1.6
+1204, Maryland,Harford ,248661,251032,0.95
+1205, Maryland,Howard ,299605,317233,5.88
+1206, Maryland,Kent ,19986,19730,-1.28
+1207, Maryland,Montgomery ,1006218,1043863,3.74
+1208, Maryland,Prince George's ,882465,908049,2.9
+1209, Maryland,Queen Anne's ,48520,48929,0.84
+1210, Maryland,St. Mary's ,109071,112587,3.22
+1211, Maryland,Somerset ,26117,25928,-0.72
+1212, Maryland,Talbot ,38055,37278,-2.04
+1213, Maryland,Washington ,149215,150292,0.72
+1214, Maryland,Wicomico ,100555,102577,2.01
+1215, Maryland,Worcester ,51511,51444,-0.13
+1216, Maryland,Baltimore city,622722,614664,-1.29
+1217, Massachusetts,Barnstable ,214915,214276,-0.3
+1218, Massachusetts,Berkshire ,130201,126903,-2.53
+1219, Massachusetts,Bristol ,551341,558324,1.27
+1220, Massachusetts,Dukes ,16793,17246,2.7
+1221, Massachusetts,Essex ,757163,779018,2.89
+1222, Massachusetts,Franklin ,71536,70382,-1.61
+1223, Massachusetts,Hampden ,466578,468467,0.4
+1224, Massachusetts,Hampshire ,160418,161816,0.87
+1225, Massachusetts,Middlesex ,1540330,1589774,3.21
+1226, Massachusetts,Nantucket ,10312,11008,6.75
+1227, Massachusetts,Norfolk ,683121,697181,2.06
+1228, Massachusetts,Plymouth ,499622,513565,2.79
+1229, Massachusetts,Suffolk ,749469,784230,4.64
+1230, Massachusetts,Worcester ,806209,819589,1.66
+1231, Michigan,Alcona ,10609,10352,-2.42
+1232, Michigan,Alger ,9495,9219,-2.91
+1233, Michigan,Allegan ,111929,115548,3.23
+1234, Michigan,Alpena ,29208,28704,-1.73
+1235, Michigan,Antrim ,23336,23144,-0.82
+1236, Michigan,Arenac ,15495,15122,-2.41
+1237, Michigan,Baraga ,8708,8503,-2.35
+1238, Michigan,Barry ,59068,59702,1.07
+1239, Michigan,Bay ,107091,104747,-2.19
+1240, Michigan,Benzie ,17389,17572,1.05
+1241, Michigan,Berrien ,156093,154010,-1.33
+1242, Michigan,Branch ,43771,43427,-0.79
+1243, Michigan,Calhoun ,134777,134386,-0.29
+1244, Michigan,Cass ,52050,51599,-0.87
+1245, Michigan,Charlevoix ,26107,26174,0.26
+1246, Michigan,Cheboygan ,25782,25401,-1.48
+1247, Michigan,Chippewa ,39035,37724,-3.36
+1248, Michigan,Clare ,30791,30358,-1.41
+1249, Michigan,Clinton ,76459,77888,1.87
+1250, Michigan,Crawford ,13988,13744,-1.74
+1251, Michigan,Delta ,36838,36202,-1.73
+1252, Michigan,Dickinson ,26211,25535,-2.58
+1253, Michigan,Eaton ,107960,109160,1.11
+1254, Michigan,Emmet ,32891,33182,0.88
+1255, Michigan,Genesee ,418029,408615,-2.25
+1256, Michigan,Gladwin ,25511,25122,-1.52
+1257, Michigan,Gogebic ,16033,15243,-4.93
+1258, Michigan,Grand Traverse ,88998,92084,3.47
+1259, Michigan,Gratiot ,42039,41202,-1.99
+1260, Michigan,Hillsdale ,46297,45774,-1.13
+1261, Michigan,Houghton ,36729,36555,-0.47
+1262, Michigan,Huron ,32476,31481,-3.06
+1263, Michigan,Ingham ,282363,288051,2.01
+1264, Michigan,Ionia ,63910,64232,0.5
+1265, Michigan,Iosco ,25387,25327,-0.24
+1266, Michigan,Iron ,11573,11195,-3.27
+1267, Michigan,Isabella ,70660,71282,0.88
+1268, Michigan,Jackson ,160102,158460,-1.03
+1269, Michigan,Kalamazoo ,255251,261654,2.51
+1270, Michigan,Kalkaska ,17097,17263,0.97
+1271, Michigan,Kent ,615041,642173,4.41
+1272, Michigan,Keweenaw ,2208,2199,-0.41
+1273, Michigan,Lake ,11474,11496,0.19
+1274, Michigan,Lapeer ,88221,88340,0.13
+1275, Michigan,Leelanau ,21609,21765,0.72
+1276, Michigan,Lenawee ,98994,98504,-0.49
+1277, Michigan,Livingston ,183059,188624,3.04
+1278, Michigan,Luce ,6497,6358,-2.14
+1279, Michigan,Mackinac ,11135,10820,-2.83
+1280, Michigan,Macomb ,848588,867730,2.26
+1281, Michigan,Manistee ,24639,24373,-1.08
+1282, Michigan,Marquette ,67814,66435,-2.03
+1283, Michigan,Mason ,28672,28876,0.71
+1284, Michigan,Mecosta ,43515,43221,-0.68
+1285, Michigan,Menominee ,23734,23281,-1.91
+1286, Michigan,Midland ,83678,83462,-0.26
+1287, Michigan,Missaukee ,15039,15102,0.42
+1288, Michigan,Monroe ,150862,149208,-1.1
+1289, Michigan,Montcalm ,63103,62974,-0.2
+1290, Michigan,Montmorency ,9491,9173,-3.35
+1291, Michigan,Muskegon ,170126,173408,1.93
+1292, Michigan,Newaygo ,47976,47938,-0.08
+1293, Michigan,Oakland ,1221138,1243970,1.87
+1294, Michigan,Oceana ,26246,26027,-0.83
+1295, Michigan,Ogemaw ,21424,20904,-2.43
+1296, Michigan,Ontonagon ,6417,5911,-7.89
+1297, Michigan,Osceola ,23274,23110,-0.7
+1298, Michigan,Oscoda ,8596,8264,-3.86
+1299, Michigan,Otsego ,24039,24470,1.79
+1300, Michigan,Ottawa ,270146,282250,4.48
+1301, Michigan,Presque Isle ,13119,12762,-2.72
+1302, Michigan,Roscommon ,24131,23700,-1.79
+1303, Michigan,Saginaw ,198352,192326,-3.04
+1304, Michigan,St. Clair ,160572,159587,-0.61
+1305, Michigan,St. Joseph ,60946,60853,-0.15
+1306, Michigan,Sanilac ,42344,41409,-2.21
+1307, Michigan,Schoolcraft ,8358,8001,-4.27
+1308, Michigan,Shiawassee ,69263,68554,-1.02
+1309, Michigan,Tuscola ,54716,53338,-2.52
+1310, Michigan,Van Buren ,75268,75223,-0.06
+1311, Michigan,Washtenaw ,351299,364709,3.82
+1312, Michigan,Wayne ,1791995,1749366,-2.38
+1313, Michigan,Wexford ,32584,33163,1.78
+1314, Minnesota,Aitkin ,15930,15583,-2.18
+1315, Minnesota,Anoka ,335978,345957,2.97
+1316, Minnesota,Becker ,33042,33734,2.09
+1317, Minnesota,Beltrami ,45226,46106,1.95
+1318, Minnesota,Benton ,38883,39992,2.85
+1319, Minnesota,Big Stone ,5168,5050,-2.28
+1320, Minnesota,Blue Earth ,65049,66441,2.14
+1321, Minnesota,Brown ,25412,25331,-0.32
+1322, Minnesota,Carlton ,35317,35738,1.19
+1323, Minnesota,Carver ,93896,100262,6.78
+1324, Minnesota,Cass ,28425,28993,2.0
+1325, Minnesota,Chippewa ,12155,12133,-0.18
+1326, Minnesota,Chisago ,53490,54748,2.35
+1327, Minnesota,Clay ,60210,62875,4.43
+1328, Minnesota,Clearwater ,8670,8827,1.81
+1329, Minnesota,Cook ,5183,5286,1.99
+1330, Minnesota,Cottonwood ,11636,11470,-1.43
+1331, Minnesota,Crow Wing ,62866,63940,1.71
+1332, Minnesota,Dakota ,404893,417486,3.11
+1333, Minnesota,Dodge ,20248,20506,1.27
+1334, Minnesota,Douglas ,36446,37456,2.77
+1335, Minnesota,Faribault ,14250,13935,-2.21
+1336, Minnesota,Fillmore ,20893,21003,0.53
+1337, Minnesota,Freeborn ,31035,30446,-1.9
+1338, Minnesota,Goodhue ,46399,46676,0.6
+1339, Minnesota,Grant ,5945,5956,0.19
+1340, Minnesota,Hennepin ,1184361,1232483,4.06
+1341, Minnesota,Houston ,18815,18814,-0.01
+1342, Minnesota,Hubbard ,20472,20718,1.2
+1343, Minnesota,Isanti ,38242,39025,2.05
+1344, Minnesota,Itasca ,45231,45242,0.02
+1345, Minnesota,Jackson ,10288,9944,-3.34
+1346, Minnesota,Kanabec ,15992,15830,-1.01
+1347, Minnesota,Kandiyohi ,42452,42495,0.1
+1348, Minnesota,Kittson ,4506,4333,-3.84
+1349, Minnesota,Koochiching ,13190,12628,-4.26
+1350, Minnesota,Lac qui Parle ,7122,6715,-5.71
+1351, Minnesota,Lake ,10844,10625,-2.02
+1352, Minnesota,Lake of the Woods ,3956,3814,-3.59
+1353, Minnesota,Le Sueur ,27643,27591,-0.19
+1354, Minnesota,Lincoln ,5805,5783,-0.38
+1355, Minnesota,Lyon ,25625,25699,0.29
+1356, Minnesota,McLeod ,36013,35842,-0.47
+1357, Minnesota,Mahnomen ,5515,5465,-0.91
+1358, Minnesota,Marshall ,9468,9324,-1.52
+1359, Minnesota,Martin ,20476,19829,-3.16
+1360, Minnesota,Meeker ,23057,23110,0.23
+1361, Minnesota,Mille Lacs ,25727,25866,0.54
+1362, Minnesota,Morrison ,33085,32821,-0.8
+1363, Minnesota,Mower ,39332,39163,-0.43
+1364, Minnesota,Murray ,8588,8329,-3.02
+1365, Minnesota,Nicollet ,32960,33575,1.87
+1366, Minnesota,Nobles ,21708,21848,0.64
+1367, Minnesota,Norman ,6645,6579,-0.99
+1368, Minnesota,Olmsted ,147066,153102,4.1
+1369, Minnesota,Otter Tail ,57339,58085,1.3
+1370, Minnesota,Pennington ,14091,14235,1.02
+1371, Minnesota,Pine ,29218,28874,-1.18
+1372, Minnesota,Pipestone ,9380,9202,-1.9
+1373, Minnesota,Polk ,31492,31660,0.53
+1374, Minnesota,Pope ,10929,11049,1.1
+1375, Minnesota,Ramsey ,521142,540649,3.74
+1376, Minnesota,Red Lake ,4083,4007,-1.86
+1377, Minnesota,Redwood ,15877,15263,-3.87
+1378, Minnesota,Renville ,15348,14660,-4.48
+1379, Minnesota,Rice ,64885,65622,1.14
+1380, Minnesota,Rock ,9559,9564,0.05
+1381, Minnesota,Roseau ,15503,15626,0.79
+1382, Minnesota,St. Louis ,200351,199980,-0.19
+1383, Minnesota,Scott ,135233,143680,6.25
+1384, Minnesota,Sherburne ,89518,93528,4.48
+1385, Minnesota,Sibley ,15114,14827,-1.9
+1386, Minnesota,Stearns ,151812,155652,2.53
+1387, Minnesota,Steele ,36295,36805,1.41
+1388, Minnesota,Stevens ,9738,9693,-0.46
+1389, Minnesota,Swift ,9618,9419,-2.07
+1390, Minnesota,Todd ,24547,24233,-1.28
+1391, Minnesota,Traverse ,3426,3356,-2.04
+1392, Minnesota,Wabasha ,21396,21273,-0.57
+1393, Minnesota,Wadena ,13690,13761,0.52
+1394, Minnesota,Waseca ,19199,18911,-1.5
+1395, Minnesota,Washington ,244011,253117,3.73
+1396, Minnesota,Watonwan ,11121,10908,-1.92
+1397, Minnesota,Wilkin ,6616,6358,-3.9
+1398, Minnesota,Winona ,51368,50948,-0.82
+1399, Minnesota,Wright ,127377,132550,4.06
+1400, Minnesota,Yellow Medicine ,10180,9935,-2.41
+1401, Mississippi,Adams ,32180,31248,-2.9
+1402, Mississippi,Alcorn ,37243,37304,0.16
+1403, Mississippi,Amite ,12964,12458,-3.9
+1404, Mississippi,Attala ,19105,18934,-0.9
+1405, Mississippi,Benton ,8654,8264,-4.51
+1406, Mississippi,Bolivar ,34059,32737,-3.88
+1407, Mississippi,Calhoun ,14846,14610,-1.59
+1408, Mississippi,Carroll ,10409,10255,-1.48
+1409, Mississippi,Chickasaw ,17455,17246,-1.2
+1410, Mississippi,Choctaw ,8357,8242,-1.38
+1411, Mississippi,Claiborne ,9380,9139,-2.57
+1412, Mississippi,Clarke ,16500,15888,-3.71
+1413, Mississippi,Clay ,20384,19850,-2.62
+1414, Mississippi,Coahoma ,25646,23809,-7.16
+1415, Mississippi,Copiah ,28956,28482,-1.64
+1416, Mississippi,Covington ,19553,19569,0.08
+1417, Mississippi,DeSoto ,166405,175611,5.53
+1418, Mississippi,Forrest ,76613,75979,-0.83
+1419, Mississippi,Franklin ,7884,7782,-1.29
+1420, Mississippi,George ,22911,23695,3.42
+1421, Mississippi,Greene ,14290,13408,-6.17
+1422, Mississippi,Grenada ,21610,21275,-1.55
+1423, Mississippi,Hancock ,45331,46791,3.22
+1424, Mississippi,Harrison ,193692,203234,4.93
+1425, Mississippi,Hinds ,247694,241229,-2.61
+1426, Mississippi,Holmes ,19076,17999,-5.65
+1427, Mississippi,Humphreys ,9215,8513,-7.62
+1428, Mississippi,Issaquena ,1411,1294,-8.29
+1429, Mississippi,Itawamba ,23392,23529,0.59
+1430, Mississippi,Jackson ,139999,141241,0.89
+1431, Mississippi,Jasper ,16547,16578,0.19
+1432, Mississippi,Jefferson ,7656,7297,-4.69
+1433, Mississippi,Jefferson Davis ,12093,11385,-5.85
+1434, Mississippi,Jones ,68328,67953,-0.55
+1435, Mississippi,Kemper ,10351,9896,-4.4
+1436, Mississippi,Lafayette ,50367,53796,6.81
+1437, Mississippi,Lamar ,57862,60914,5.27
+1438, Mississippi,Lauderdale ,80266,77755,-3.13
+1439, Mississippi,Lawrence ,12612,12749,1.09
+1440, Mississippi,Leake ,23235,22620,-2.65
+1441, Mississippi,Lee ,85093,85381,0.34
+1442, Mississippi,Leflore ,30781,29856,-3.01
+1443, Mississippi,Lincoln ,34835,34523,-0.9
+1444, Mississippi,Lowndes ,59680,59602,-0.13
+1445, Mississippi,Madison ,98549,105114,6.66
+1446, Mississippi,Marion ,26365,25251,-4.23
+1447, Mississippi,Marshall ,36558,35801,-2.07
+1448, Mississippi,Monroe ,36396,35873,-1.44
+1449, Mississippi,Montgomery ,10561,10187,-3.54
+1450, Mississippi,Neshoba ,29683,29403,-0.94
+1451, Mississippi,Newton ,21596,21558,-0.18
+1452, Mississippi,Noxubee ,11175,11038,-1.23
+1453, Mississippi,Oktibbeha ,48978,49833,1.75
+1454, Mississippi,Panola ,34444,34164,-0.81
+1455, Mississippi,Pearl River ,55092,55310,0.4
+1456, Mississippi,Perry ,12084,12245,1.33
+1457, Mississippi,Pike ,40099,39667,-1.08
+1458, Mississippi,Pontotoc ,30347,31550,3.96
+1459, Mississippi,Prentiss ,25329,25256,-0.29
+1460, Mississippi,Quitman ,7802,7349,-5.81
+1461, Mississippi,Rankin ,145598,150228,3.18
+1462, Mississippi,Scott ,28262,28207,-0.19
+1463, Mississippi,Sharkey ,4793,4552,-5.03
+1464, Mississippi,Simpson ,27384,26912,-1.72
+1465, Mississippi,Smith ,16348,15909,-2.69
+1466, Mississippi,Stone ,18053,18012,-0.23
+1467, Mississippi,Sunflower ,28417,26407,-7.07
+1468, Mississippi,Tallahatchie ,15100,14394,-4.68
+1469, Mississippi,Tate ,28513,28201,-1.09
+1470, Mississippi,Tippah ,21956,22190,1.07
+1471, Mississippi,Tishomingo ,19603,19491,-0.57
+1472, Mississippi,Tunica ,10449,10234,-2.06
+1473, Mississippi,Union ,27369,28311,3.44
+1474, Mississippi,Walthall ,15090,14599,-3.25
+1475, Mississippi,Warren ,48194,47140,-2.19
+1476, Mississippi,Washington ,50055,47231,-5.64
+1477, Mississippi,Wayne ,20637,20480,-0.76
+1478, Mississippi,Webster ,10056,9767,-2.87
+1479, Mississippi,Wilkinson ,9465,9047,-4.42
+1480, Mississippi,Winston ,18973,18160,-4.29
+1481, Mississippi,Yalobusha ,12369,12471,0.82
+1482, Mississippi,Yazoo ,28283,27264,-3.6
+1483, Missouri,Adair ,25680,25359,-1.25
+1484, Missouri,Andrew ,17390,17350,-0.23
+1485, Missouri,Atchison ,5518,5293,-4.08
+1486, Missouri,Audrain ,25627,26021,1.54
+1487, Missouri,Barry ,35673,35732,0.17
+1488, Missouri,Barton ,12348,11908,-3.56
+1489, Missouri,Bates ,16696,16417,-1.67
+1490, Missouri,Benton ,18939,18839,-0.53
+1491, Missouri,Bollinger ,12395,12052,-2.77
+1492, Missouri,Boone ,168746,176594,4.65
+1493, Missouri,Buchanan ,89858,88938,-1.02
+1494, Missouri,Butler ,43004,42739,-0.62
+1495, Missouri,Caldwell ,9117,9062,-0.6
+1496, Missouri,Callaway ,44442,45078,1.43
+1497, Missouri,Camden ,43914,44497,1.33
+1498, Missouri,Cape Girardeau ,77171,78913,2.26
+1499, Missouri,Carroll ,9096,8913,-2.01
+1500, Missouri,Carter ,6256,6168,-1.41
+1501, Missouri,Cass ,100521,102845,2.31
+1502, Missouri,Cedar ,13830,14016,1.34
+1503, Missouri,Chariton ,7665,7516,-1.94
+1504, Missouri,Christian ,79762,84401,5.82
+1505, Missouri,Clark ,6978,6723,-3.65
+1506, Missouri,Clay ,227530,239085,5.08
+1507, Missouri,Clinton ,20474,20610,0.66
+1508, Missouri,Cole ,76371,76631,0.34
+1509, Missouri,Cooper ,17534,17712,1.02
+1510, Missouri,Crawford ,24779,24302,-1.93
+1511, Missouri,Dade ,7561,7631,0.93
+1512, Missouri,Dallas ,16781,16448,-1.98
+1513, Missouri,Daviess ,8268,8209,-0.71
+1514, Missouri,DeKalb ,12875,12613,-2.03
+1515, Missouri,Dent ,15617,15387,-1.47
+1516, Missouri,Douglas ,13594,13358,-1.74
+1517, Missouri,Dunklin ,31860,30535,-4.16
+1518, Missouri,Franklin ,101335,102838,1.48
+1519, Missouri,Gasconade ,14985,14808,-1.18
+1520, Missouri,Gentry ,6803,6661,-2.09
+1521, Missouri,Greene ,280729,288690,2.84
+1522, Missouri,Grundy ,10343,10165,-1.72
+1523, Missouri,Harrison ,8734,8556,-2.04
+1524, Missouri,Henry ,22170,21594,-2.6
+1525, Missouri,Hickory ,9388,9269,-1.27
+1526, Missouri,Holt ,4663,4448,-4.61
+1527, Missouri,Howard ,10189,10058,-1.29
+1528, Missouri,Howell ,40580,40210,-0.91
+1529, Missouri,Iron ,10419,10022,-3.81
+1530, Missouri,Jackson ,677321,691801,2.14
+1531, Missouri,Jasper ,115406,119111,3.21
+1532, Missouri,Jefferson ,220185,224226,1.84
+1533, Missouri,Johnson ,54465,53942,-0.96
+1534, Missouri,Knox ,4089,3934,-3.79
+1535, Missouri,Laclede ,35420,35490,0.2
+1536, Missouri,Lafayette ,33108,32618,-1.48
+1537, Missouri,Lawrence ,38380,38381,0.0
+1538, Missouri,Lewis ,10159,10134,-0.25
+1539, Missouri,Lincoln ,53348,55267,3.6
+1540, Missouri,Linn ,12481,12164,-2.54
+1541, Missouri,Livingston ,15055,15235,1.2
+1542, Missouri,McDonald ,22931,22620,-1.36
+1543, Missouri,Macon ,15552,15170,-2.46
+1544, Missouri,Madison ,12464,12443,-0.17
+1545, Missouri,Maries ,9053,8858,-2.15
+1546, Missouri,Marion ,28806,28894,0.31
+1547, Missouri,Mercer ,3719,3699,-0.54
+1548, Missouri,Miller ,24716,25206,1.98
+1549, Missouri,Mississippi ,14298,13799,-3.49
+1550, Missouri,Moniteau ,15673,16018,2.2
+1551, Missouri,Monroe ,8677,8558,-1.37
+1552, Missouri,Montgomery ,12021,11620,-3.34
+1553, Missouri,Morgan ,20136,20213,0.38
+1554, Missouri,New Madrid ,18493,17915,-3.13
+1555, Missouri,Newton ,59071,58694,-0.64
+1556, Missouri,Nodaway ,23377,22670,-3.02
+1557, Missouri,Oregon ,11007,10789,-1.98
+1558, Missouri,Osage ,13864,13664,-1.44
+1559, Missouri,Ozark ,9612,9237,-3.9
+1560, Missouri,Pemiscot ,18106,17073,-5.71
+1561, Missouri,Perry ,19042,19285,1.28
+1562, Missouri,Pettis ,42280,42213,-0.16
+1563, Missouri,Phelps ,45201,44608,-1.31
+1564, Missouri,Pike ,18530,18438,-0.5
+1565, Missouri,Platte ,92153,98309,6.68
+1566, Missouri,Polk ,31078,31285,0.67
+1567, Missouri,Pulaski ,53412,52654,-1.42
+1568, Missouri,Putnam ,4941,4853,-1.78
+1569, Missouri,Ralls ,10265,10224,-0.4
+1570, Missouri,Randolph ,25313,24989,-1.28
+1571, Missouri,Ray ,23063,22754,-1.34
+1572, Missouri,Reynolds ,6663,6455,-3.12
+1573, Missouri,Ripley ,14043,13817,-1.61
+1574, Missouri,St. Charles ,369102,390918,5.91
+1575, Missouri,St. Clair ,9522,9272,-2.63
+1576, Missouri,Ste. Genevieve ,17859,18030,0.96
+1577, Missouri,St. Francois ,65856,66627,1.17
+1578, Missouri,St. Louis ,1000530,998581,-0.19
+1579, Missouri,Saline ,23473,22980,-2.1
+1580, Missouri,Schuyler ,4390,4394,0.09
+1581, Missouri,Scotland ,4889,4932,0.88
+1582, Missouri,Scott ,39138,38745,-1.0
+1583, Missouri,Shannon ,8324,8168,-1.87
+1584, Missouri,Shelby ,6238,6082,-2.5
+1585, Missouri,Stoddard ,29843,29588,-0.85
+1586, Missouri,Stone ,31619,31047,-1.81
+1587, Missouri,Sullivan ,6559,6262,-4.53
+1588, Missouri,Taney ,52939,54735,3.39
+1589, Missouri,Texas ,25757,25775,0.07
+1590, Missouri,Vernon ,20783,20723,-0.29
+1591, Missouri,Warren ,32791,33802,3.08
+1592, Missouri,Washington ,25108,24839,-1.07
+1593, Missouri,Wayne ,13378,13139,-1.79
+1594, Missouri,Webster ,36343,38106,4.85
+1595, Missouri,Worth ,2084,2024,-2.88
+1596, Missouri,Wright ,18620,18286,-1.79
+1597, Missouri,St. Louis city,319085,311404,-2.41
+1598, Montana,Beaverhead ,9353,9401,0.51
+1599, Montana,Big Horn ,13003,13343,2.61
+1600, Montana,Blaine ,6650,6601,-0.74
+1601, Montana,Broadwater ,5742,5747,0.09
+1602, Montana,Carbon ,10122,10460,3.34
+1603, Montana,Carter ,1175,1203,2.38
+1604, Montana,Cascade ,81767,81755,-0.01
+1605, Montana,Chouteau ,5933,5759,-2.93
+1606, Montana,Custer ,11836,11924,0.74
+1607, Montana,Daniels ,1785,1755,-1.68
+1608, Montana,Dawson ,9252,9327,0.81
+1609, Montana,Deer Lodge ,9224,9085,-1.51
+1610, Montana,Fallon ,3026,3120,3.11
+1611, Montana,Fergus ,11450,11413,-0.32
+1612, Montana,Flathead ,91617,98082,7.06
+1613, Montana,Gallatin ,92595,104502,12.86
+1614, Montana,Garfield ,1263,1310,3.72
+1615, Montana,Glacier ,13663,13694,0.23
+1616, Montana,Golden Valley ,844,831,-1.54
+1617, Montana,Granite ,3108,3368,8.37
+1618, Montana,Hill ,16430,16542,0.68
+1619, Montana,Jefferson ,11395,11853,4.02
+1620, Montana,Judith Basin ,2024,1940,-4.15
+1621, Montana,Lake ,29036,29758,2.49
+1622, Montana,Lewis and Clark ,64859,67282,3.74
+1623, Montana,Liberty ,2397,2409,0.5
+1624, Montana,Lincoln ,19483,19259,-1.15
+1625, Montana,McCone ,1699,1700,0.06
+1626, Montana,Madison ,7718,7924,2.67
+1627, Montana,Meagher ,1903,1827,-3.99
+1628, Montana,Mineral ,4173,4184,0.26
+1629, Montana,Missoula ,111092,116130,4.53
+1630, Montana,Musselshell ,4679,4589,-1.92
+1631, Montana,Park ,15587,16114,3.38
+1632, Montana,Petroleum ,508,489,-3.74
+1633, Montana,Phillips ,4123,4133,0.24
+1634, Montana,Pondera ,6182,6084,-1.59
+1635, Montana,Powder River ,1763,1746,-0.96
+1636, Montana,Powell ,7088,6858,-3.24
+1637, Montana,Prairie ,1155,1182,2.34
+1638, Montana,Ravalli ,40622,42088,3.61
+1639, Montana,Richland ,10801,11482,6.3
+1640, Montana,Roosevelt ,10889,11305,3.82
+1641, Montana,Rosebud ,9379,9287,-0.98
+1642, Montana,Sanders ,11376,11534,1.39
+1643, Montana,Sheridan ,3579,3648,1.93
+1644, Montana,Silver Bow ,34470,34553,0.24
+1645, Montana,Stillwater ,9209,9406,2.14
+1646, Montana,Sweet Grass ,3596,3623,0.75
+1647, Montana,Teton ,6072,6056,-0.26
+1648, Montana,Toole ,5235,4977,-4.93
+1649, Montana,Treasure ,732,692,-5.46
+1650, Montana,Valley ,7493,7539,0.61
+1651, Montana,Wheatland ,2099,2117,0.86
+1652, Montana,Wibaux ,1055,1093,3.6
+1653, Montana,Yellowstone ,151887,158437,4.31
+1654, Nebraska,Adams ,31390,31684,0.94
+1655, Nebraska,Antelope ,6528,6329,-3.05
+1656, Nebraska,Arthur ,481,469,-2.49
+1657, Nebraska,Banner ,764,798,4.45
+1658, Nebraska,Blaine ,513,484,-5.65
+1659, Nebraska,Boone ,5415,5332,-1.53
+1660, Nebraska,Box Butte ,11276,11194,-0.73
+1661, Nebraska,Boyd ,2064,1982,-3.97
+1662, Nebraska,Brown ,3025,2960,-2.15
+1663, Nebraska,Buffalo ,47626,49383,3.69
+1664, Nebraska,Burt ,6684,6546,-2.06
+1665, Nebraska,Butler ,8309,8052,-3.09
+1666, Nebraska,Cass ,25156,25767,2.43
+1667, Nebraska,Cedar ,8763,8671,-1.05
+1668, Nebraska,Chase ,4036,3937,-2.45
+1669, Nebraska,Cherry ,5729,5832,1.8
+1670, Nebraska,Cheyenne ,10062,10051,-0.11
+1671, Nebraska,Clay ,6409,6163,-3.84
+1672, Nebraska,Colfax ,10559,10414,-1.37
+1673, Nebraska,Cuming ,9098,9016,-0.9
+1674, Nebraska,Custer ,10788,10807,0.18
+1675, Nebraska,Dakota ,20795,20465,-1.59
+1676, Nebraska,Dawes ,9179,8979,-2.18
+1677, Nebraska,Dawson ,24064,23640,-1.76
+1678, Nebraska,Deuel ,1972,1873,-5.02
+1679, Nebraska,Dixon ,5908,5762,-2.47
+1680, Nebraska,Dodge ,36648,36757,0.3
+1681, Nebraska,Douglas ,531307,554995,4.46
+1682, Nebraska,Dundy ,1994,1831,-8.17
+1683, Nebraska,Fillmore ,5731,5720,-0.19
+1684, Nebraska,Franklin ,3189,3014,-5.49
+1685, Nebraska,Frontier ,2735,2621,-4.17
+1686, Nebraska,Furnas ,4899,4787,-2.29
+1687, Nebraska,Gage ,21745,21799,0.25
+1688, Nebraska,Garden ,1969,1930,-1.98
+1689, Nebraska,Garfield ,1984,2011,1.36
+1690, Nebraska,Gosper ,2032,1971,-3.0
+1691, Nebraska,Grant ,616,641,4.06
+1692, Nebraska,Greeley ,2455,2399,-2.28
+1693, Nebraska,Hall ,60301,61705,2.33
+1694, Nebraska,Hamilton ,9023,9186,1.81
+1695, Nebraska,Harlan ,3419,3473,1.58
+1696, Nebraska,Hayes ,942,897,-4.78
+1697, Nebraska,Hitchcock ,2883,2825,-2.01
+1698, Nebraska,Holt ,10404,10250,-1.48
+1699, Nebraska,Hooker ,712,708,-0.56
+1700, Nebraska,Howard ,6302,6429,2.02
+1701, Nebraska,Jefferson ,7533,7177,-4.73
+1702, Nebraska,Johnson ,5169,5171,0.04
+1703, Nebraska,Kearney ,6518,6552,0.52
+1704, Nebraska,Keith ,8210,8018,-2.34
+1705, Nebraska,Keya Paha ,798,791,-0.88
+1706, Nebraska,Kimball ,3779,3679,-2.65
+1707, Nebraska,Knox ,8592,8571,-0.24
+1708, Nebraska,Lancaster ,293606,309637,5.46
+1709, Nebraska,Lincoln ,36000,35550,-1.25
+1710, Nebraska,Logan ,774,772,-0.26
+1711, Nebraska,Loup ,599,591,-1.34
+1712, Nebraska,McPherson ,503,493,-1.99
+1713, Nebraska,Madison ,35131,35015,-0.33
+1714, Nebraska,Merrick ,7802,7828,0.33
+1715, Nebraska,Morrill ,4873,4787,-1.76
+1716, Nebraska,Nance ,3708,3576,-3.56
+1717, Nebraska,Nemaha ,7193,6971,-3.09
+1718, Nebraska,Nuckolls ,4427,4265,-3.66
+1719, Nebraska,Otoe ,15763,16081,2.02
+1720, Nebraska,Pawnee ,2776,2652,-4.47
+1721, Nebraska,Perkins ,2937,2898,-1.33
+1722, Nebraska,Phelps ,9229,9266,0.4
+1723, Nebraska,Pierce ,7169,7159,-0.14
+1724, Nebraska,Platte ,32602,32861,0.79
+1725, Nebraska,Polk ,5287,5203,-1.59
+1726, Nebraska,Red Willow ,11013,10722,-2.64
+1727, Nebraska,Richardson ,8302,8060,-2.91
+1728, Nebraska,Rock ,1375,1390,1.09
+1729, Nebraska,Saline ,14474,14331,-0.99
+1730, Nebraska,Sarpy ,165886,179023,7.92
+1731, Nebraska,Saunders ,20832,21038,0.99
+1732, Nebraska,Scotts Bluff ,36921,36422,-1.35
+1733, Nebraska,Seward ,16981,17284,1.78
+1734, Nebraska,Sheridan ,5350,5234,-2.17
+1735, Nebraska,Sherman ,3125,3054,-2.27
+1736, Nebraska,Sioux ,1322,1242,-6.05
+1737, Nebraska,Stanton ,6105,5944,-2.64
+1738, Nebraska,Thayer ,5156,5101,-1.07
+1739, Nebraska,Thomas ,692,716,3.47
+1740, Nebraska,Thurston ,6917,7127,3.04
+1741, Nebraska,Valley ,4231,4184,-1.11
+1742, Nebraska,Washington ,20293,20603,1.53
+1743, Nebraska,Wayne ,9513,9365,-1.56
+1744, Nebraska,Webster ,3753,3603,-4.0
+1745, Nebraska,Wheeler ,795,776,-2.39
+1746, Nebraska,York ,13828,13794,-0.25
+1747, Nevada,Churchill ,24333,24198,-0.55
+1748, Nevada,Clark ,1995815,2155664,8.01
+1749, Nevada,Douglas ,46973,48020,2.23
+1750, Nevada,Elko ,51070,52168,2.15
+1751, Nevada,Esmeralda ,770,790,2.6
+1752, Nevada,Eureka ,1996,1917,-3.96
+1753, Nevada,Humboldt ,17068,16842,-1.32
+1754, Nevada,Lander ,5931,5702,-3.86
+1755, Nevada,Lincoln ,5338,5055,-5.3
+1756, Nevada,Lyon ,51087,53179,4.09
+1757, Nevada,Mineral ,4664,4449,-4.61
+1758, Nevada,Nye ,43658,43423,-0.54
+1759, Nevada,Pershing ,6768,6560,-3.07
+1760, Nevada,Storey ,3914,4051,3.5
+1761, Nevada,Washoe ,428654,453616,5.82
+1762, Nevada,White Pine ,9986,9682,-3.04
+1763, Nevada,Carson City,54540,54742,0.37
+1764, New Hampshire,Belknap ,60339,60779,0.73
+1765, New Hampshire,Carroll ,47677,47289,-0.81
+1766, New Hampshire,Cheshire ,76851,75774,-1.4
+1767, New Hampshire,Coos ,32005,32039,0.11
+1768, New Hampshire,Grafton ,89230,88888,-0.38
+1769, New Hampshire,Hillsborough ,402651,407761,1.27
+1770, New Hampshire,Merrimack ,146944,148582,1.11
+1771, New Hampshire,Rockingham ,297694,303251,1.87
+1772, New Hampshire,Strafford ,124612,127428,2.26
+1773, New Hampshire,Sullivan ,43179,43004,-0.41
+1774, New Jersey,Atlantic ,275604,270991,-1.67
+1775, New Jersey,Bergen ,919694,939151,2.12
+1776, New Jersey,Burlington ,451226,449284,-0.43
+1777, New Jersey,Camden ,512906,510150,-0.54
+1778, New Jersey,Cape May ,96460,94430,-2.1
+1779, New Jersey,Cumberland ,157071,153797,-2.08
+1780, New Jersey,Essex ,787579,796914,1.19
+1781, New Jersey,Gloucester ,290094,292330,0.77
+1782, New Jersey,Hudson ,657113,677983,3.18
+1783, New Jersey,Hunterdon ,126492,124676,-1.44
+1784, New Jersey,Mercer ,370087,371023,0.25
+1785, New Jersey,Middlesex ,823670,837073,1.63
+1786, New Jersey,Monmouth ,628782,625846,-0.47
+1787, New Jersey,Morris ,497310,498423,0.22
+1788, New Jersey,Ocean ,580682,592497,2.03
+1789, New Jersey,Passaic ,505101,507945,0.56
+1790, New Jersey,Salem ,65627,63436,-3.34
+1791, New Jersey,Somerset ,328580,333751,1.57
+1792, New Jersey,Sussex ,147033,142522,-3.07
+1793, New Jersey,Union ,544465,555630,2.05
+1794, New Jersey,Warren ,107635,106617,-0.95
+1795, New Mexico,Bernalillo ,672685,676953,0.63
+1796, New Mexico,Catron ,3651,3508,-3.92
+1797, New Mexico,Chaves ,65705,65282,-0.64
+1798, New Mexico,Cibola ,27316,27487,0.63
+1799, New Mexico,Colfax ,13226,12253,-7.36
+1800, New Mexico,Curry ,50690,50280,-0.81
+1801, New Mexico,De Baca ,1941,1793,-7.62
+1802, New Mexico,Doña Ana ,214162,214207,0.02
+1803, New Mexico,Eddy ,54424,57621,5.87
+1804, New Mexico,Grant ,29320,28280,-3.55
+1805, New Mexico,Guadalupe ,4612,4376,-5.12
+1806, New Mexico,Harding ,698,665,-4.73
+1807, New Mexico,Hidalgo ,4785,4302,-10.09
+1808, New Mexico,Lea ,66182,69749,5.39
+1809, New Mexico,Lincoln ,20198,19429,-3.81
+1810, New Mexico,Los Alamos ,18149,18147,-0.01
+1811, New Mexico,Luna ,24983,24450,-2.13
+1812, New Mexico,McKinley ,72691,74923,3.07
+1813, New Mexico,Mora ,4675,4504,-3.66
+1814, New Mexico,Otero ,66016,65410,-0.92
+1815, New Mexico,Quay ,8816,8365,-5.12
+1816, New Mexico,Rio Arriba ,40254,40040,-0.53
+1817, New Mexico,Roosevelt ,20341,19082,-6.19
+1818, New Mexico,Sandoval ,135383,142025,4.91
+1819, New Mexico,San Juan ,128331,115079,-10.33
+1820, New Mexico,San Miguel ,29026,27760,-4.36
+1821, New Mexico,Santa Fe ,146157,148651,1.71
+1822, New Mexico,Sierra ,11881,11191,-5.81
+1823, New Mexico,Socorro ,17524,17027,-2.84
+1824, New Mexico,Taos ,32817,33065,0.76
+1825, New Mexico,Torrance ,16074,15302,-4.8
+1826, New Mexico,Union ,4432,4183,-5.62
+1827, New Mexico,Valencia ,76639,75626,-1.32
+1828, New York,Albany ,306384,308846,0.8
+1829, New York,Allegany ,48247,47077,-2.43
+1830, New York,Bronx ,1414774,1455720,2.89
+1831, New York,Broome ,198916,195334,-1.8
+1832, New York,Cattaraugus ,79365,77677,-2.13
+1833, New York,Cayuga ,79637,77861,-2.23
+1834, New York,Chautauqua ,133438,129504,-2.95
+1835, New York,Chemung ,89264,86322,-3.3
+1836, New York,Chenango ,49919,48579,-2.68
+1837, New York,Clinton ,81869,81073,-0.97
+1838, New York,Columbia ,62539,60989,-2.48
+1839, New York,Cortland ,49154,48070,-2.21
+1840, New York,Delaware ,47330,45523,-3.82
+1841, New York,Dutchess ,297213,294473,-0.92
+1842, New York,Erie ,920792,921046,0.03
+1843, New York,Essex ,39114,38102,-2.59
+1844, New York,Franklin ,51788,50409,-2.66
+1845, New York,Fulton ,55033,53828,-2.19
+1846, New York,Genesee ,59762,58482,-2.14
+1847, New York,Greene ,48711,47508,-2.47
+1848, New York,Hamilton ,4797,4542,-5.32
+1849, New York,Herkimer ,64527,62613,-2.97
+1850, New York,Jefferson ,120730,114006,-5.57
+1851, New York,Kings ,2572282,2629150,2.21
+1852, New York,Lewis ,27267,26865,-1.47
+1853, New York,Livingston ,64854,64257,-0.92
+1854, New York,Madison ,72490,71329,-1.6
+1855, New York,Monroe ,748947,747727,-0.16
+1856, New York,Montgomery ,49848,49276,-1.15
+1857, New York,Nassau ,1350748,1361500,0.8
+1858, New York,New York ,1625121,1643734,1.15
+1859, New York,Niagara ,214841,211758,-1.44
+1860, New York,Oneida ,234061,231190,-1.23
+1861, New York,Onondaga ,467712,466194,-0.32
+1862, New York,Ontario ,108801,109828,0.94
+1863, New York,Orange ,374100,379210,1.37
+1864, New York,Orleans ,42465,41346,-2.64
+1865, New York,Oswego ,121551,118987,-2.11
+1866, New York,Otsego ,61805,60097,-2.76
+1867, New York,Putnam ,99717,98900,-0.82
+1868, New York,Queens ,2278024,2333054,2.42
+1869, New York,Rensselaer ,159669,160070,0.25
+1870, New York,Richmond ,470978,476015,1.07
+1871, New York,Rockland ,317763,326780,2.84
+1872, New York,St. Lawrence ,112621,110038,-2.29
+1873, New York,Saratoga ,222553,227053,2.02
+1874, New York,Schenectady ,154945,154553,-0.25
+1875, New York,Schoharie ,32086,31317,-2.4
+1876, New York,Schuyler ,18579,18099,-2.58
+1877, New York,Seneca ,35380,34777,-1.7
+1878, New York,Steuben ,99064,96940,-2.14
+1879, New York,Suffolk ,1499382,1492583,-0.45
+1880, New York,Sullivan ,76952,74801,-2.8
+1881, New York,Tioga ,50303,48760,-3.07
+1882, New York,Tompkins ,103135,104871,1.68
+1883, New York,Ulster ,181811,179225,-1.42
+1884, New York,Warren ,65418,64567,-1.3
+1885, New York,Washington ,63066,61800,-2.01
+1886, New York,Wayne ,93012,90798,-2.38
+1887, New York,Westchester ,961073,974542,1.4
+1888, New York,Wyoming ,41771,40791,-2.35
+1889, New York,Yates ,25271,24923,-1.38
+1890, North Carolina,Alamance ,153659,159688,3.92
+1891, North Carolina,Alexander ,36964,37428,1.26
+1892, North Carolina,Alleghany ,10923,10848,-0.69
+1893, North Carolina,Anson ,26311,25448,-3.28
+1894, North Carolina,Ashe ,27099,26924,-0.65
+1895, North Carolina,Avery ,17630,17516,-0.65
+1896, North Carolina,Beaufort ,47497,47526,0.06
+1897, North Carolina,Bertie ,20591,19854,-3.58
+1898, North Carolina,Bladen ,34922,33741,-3.38
+1899, North Carolina,Brunswick ,112163,126953,13.19
+1900, North Carolina,Buncombe ,244188,256088,4.87
+1901, North Carolina,Burke ,89901,88851,-1.17
+1902, North Carolina,Cabarrus ,184290,201590,9.39
+1903, North Carolina,Caldwell ,81979,81449,-0.65
+1904, North Carolina,Camden ,10035,10418,3.82
+1905, North Carolina,Carteret ,67738,68890,1.7
+1906, North Carolina,Caswell ,23220,22910,-1.34
+1907, North Carolina,Catawba ,154940,156459,0.98
+1908, North Carolina,Chatham ,65764,72243,9.85
+1909, North Carolina,Cherokee ,26971,27905,3.46
+1910, North Carolina,Chowan ,14715,14383,-2.26
+1911, North Carolina,Clay ,10684,10915,2.16
+1912, North Carolina,Cleveland ,97425,97144,-0.29
+1913, North Carolina,Columbus ,57591,56505,-1.89
+1914, North Carolina,Craven ,105309,103445,-1.77
+1915, North Carolina,Cumberland ,323454,327127,1.14
+1916, North Carolina,Currituck ,24030,25809,7.4
+1917, North Carolina,Dare ,34453,35964,4.39
+1918, North Carolina,Davidson ,163474,164926,0.89
+1919, North Carolina,Davie ,41323,42013,1.67
+1920, North Carolina,Duplin ,59466,58969,-0.84
+1921, North Carolina,Durham ,282676,306212,8.33
+1922, North Carolina,Edgecombe ,55746,53318,-4.36
+1923, North Carolina,Forsyth ,357815,371511,3.83
+1924, North Carolina,Franklin ,61537,64705,5.15
+1925, North Carolina,Gaston ,208128,216965,4.25
+1926, North Carolina,Gates ,11919,11478,-3.7
+1927, North Carolina,Graham ,8707,8558,-1.71
+1928, North Carolina,Granville ,57764,59031,2.19
+1929, North Carolina,Greene ,21392,21168,-1.05
+1930, North Carolina,Guilford ,500841,521330,4.09
+1931, North Carolina,Halifax ,53866,51766,-3.9
+1932, North Carolina,Harnett ,122220,130881,7.09
+1933, North Carolina,Haywood ,58796,60682,3.21
+1934, North Carolina,Henderson ,108014,114209,5.74
+1935, North Carolina,Hertford ,24414,24136,-1.14
+1936, North Carolina,Hoke ,50413,53262,5.65
+1937, North Carolina,Hyde ,5736,5517,-3.82
+1938, North Carolina,Iredell ,162823,172916,6.2
+1939, North Carolina,Jackson ,40560,42241,4.14
+1940, North Carolina,Johnston ,174837,191450,9.5
+1941, North Carolina,Jones ,10272,9845,-4.16
+1942, North Carolina,Lee ,59341,59616,0.46
+1943, North Carolina,Lenoir ,59166,57307,-3.14
+1944, North Carolina,Lincoln ,78612,81168,3.25
+1945, North Carolina,McDowell ,45006,45075,0.15
+1946, North Carolina,Macon ,33820,34376,1.64
+1947, North Carolina,Madison ,20890,21340,2.15
+1948, North Carolina,Martin ,23888,23172,-3.0
+1949, North Carolina,Mecklenburg ,968367,1054835,8.93
+1950, North Carolina,Mitchell ,15380,15126,-1.65
+1951, North Carolina,Montgomery ,27616,27418,-0.72
+1952, North Carolina,Moore ,90376,95776,5.98
+1953, North Carolina,Nash ,95240,94005,-1.3
+1954, North Carolina,New Hanover ,209189,223483,6.83
+1955, North Carolina,Northampton ,21312,20000,-6.16
+1956, North Carolina,Onslow ,183807,187136,1.81
+1957, North Carolina,Orange ,137551,141796,3.09
+1958, North Carolina,Pamlico ,13041,12821,-1.69
+1959, North Carolina,Pasquotank ,40546,39864,-1.68
+1960, North Carolina,Pender ,53884,59090,9.66
+1961, North Carolina,Perquimans ,13543,13335,-1.54
+1962, North Carolina,Person ,39167,39284,0.3
+1963, North Carolina,Pitt ,172913,177220,2.49
+1964, North Carolina,Polk ,20246,20334,0.43
+1965, North Carolina,Randolph ,142251,143416,0.82
+1966, North Carolina,Richmond ,46357,44939,-3.06
+1967, North Carolina,Robeson ,135412,133235,-1.61
+1968, North Carolina,Rockingham ,92684,91393,-1.39
+1969, North Carolina,Rowan ,137832,139933,1.52
+1970, North Carolina,Rutherford ,67204,66421,-1.17
+1971, North Carolina,Sampson ,63912,63124,-1.23
+1972, North Carolina,Scotland ,36156,35244,-2.52
+1973, North Carolina,Stanly ,60485,60791,0.51
+1974, North Carolina,Stokes ,46773,46097,-1.45
+1975, North Carolina,Surry ,73485,72113,-1.87
+1976, North Carolina,Swain ,14098,14346,1.76
+1977, North Carolina,Transylvania ,32820,33482,2.02
+1978, North Carolina,Tyrrell ,4138,4141,0.07
+1979, North Carolina,Union ,208362,226606,8.76
+1980, North Carolina,Vance ,45057,44244,-1.8
+1981, North Carolina,Wake ,952296,1046791,9.92
+1982, North Carolina,Warren ,20663,19907,-3.66
+1983, North Carolina,Washington ,12716,12195,-4.1
+1984, North Carolina,Watauga ,52062,53922,3.57
+1985, North Carolina,Wayne ,124551,124150,-0.32
+1986, North Carolina,Wilkes ,69279,68740,-0.78
+1987, North Carolina,Wilson ,81755,81661,-0.11
+1988, North Carolina,Yadkin ,38125,37532,-1.56
+1989, North Carolina,Yancey ,17616,17678,0.35
+1990, North Dakota,Adams ,2319,2305,-0.6
+1991, North Dakota,Barnes ,11004,10926,-0.71
+1992, North Dakota,Benson ,6760,6739,-0.31
+1993, North Dakota,Billings ,914,934,2.19
+1994, North Dakota,Bottineau ,6581,6579,-0.03
+1995, North Dakota,Bowman ,3211,3241,0.93
+1996, North Dakota,Burke ,2162,2198,1.67
+1997, North Dakota,Burleigh ,85981,94487,9.89
+1998, North Dakota,Cass ,157040,175249,11.6
+1999, North Dakota,Cavalier ,3945,3827,-2.99
+2000, North Dakota,Dickey ,5251,5064,-3.56
+2001, North Dakota,Divide ,2239,2413,7.77
+2002, North Dakota,Dunn ,3967,4366,10.06
+2003, North Dakota,Eddy ,2372,2358,-0.59
+2004, North Dakota,Emmons ,3485,3346,-3.99
+2005, North Dakota,Foster ,3387,3303,-2.48
+2006, North Dakota,Golden Valley ,1803,1817,0.78
+2007, North Dakota,Grand Forks ,67697,71083,5.0
+2008, North Dakota,Grant ,2341,2377,1.54
+2009, North Dakota,Griggs ,2359,2277,-3.48
+2010, North Dakota,Hettinger ,2558,2629,2.78
+2011, North Dakota,Kidder ,2431,2414,-0.7
+2012, North Dakota,LaMoure ,4101,4111,0.24
+2013, North Dakota,Logan ,1938,1941,0.15
+2014, North Dakota,McHenry ,5783,5963,3.11
+2015, North Dakota,McIntosh ,2756,2656,-3.63
+2016, North Dakota,McKenzie ,7963,12621,58.5
+2017, North Dakota,McLean ,9384,9729,3.68
+2018, North Dakota,Mercer ,8492,8694,2.38
+2019, North Dakota,Morton ,28084,30809,9.7
+2020, North Dakota,Mountrail ,8741,10242,17.17
+2021, North Dakota,Nelson ,3082,2960,-3.96
+2022, North Dakota,Oliver ,1837,1870,1.8
+2023, North Dakota,Pembina ,7262,7069,-2.66
+2024, North Dakota,Pierce ,4461,4267,-4.35
+2025, North Dakota,Ramsey ,11572,11547,-0.22
+2026, North Dakota,Ransom ,5475,5404,-1.3
+2027, North Dakota,Renville ,2554,2550,-0.16
+2028, North Dakota,Richland ,16221,16353,0.81
+2029, North Dakota,Rolette ,14364,14659,2.05
+2030, North Dakota,Sargent ,3894,3890,-0.1
+2031, North Dakota,Sheridan ,1279,1322,3.36
+2032, North Dakota,Sioux ,4352,4469,2.69
+2033, North Dakota,Slope ,761,763,0.26
+2034, North Dakota,Stark ,26919,31199,15.9
+2035, North Dakota,Steele ,2000,1962,-1.9
+2036, North Dakota,Stutsman ,20983,21128,0.69
+2037, North Dakota,Towner ,2326,2263,-2.71
+2038, North Dakota,Traill ,8070,8030,-0.5
+2039, North Dakota,Walsh ,11065,10904,-1.46
+2040, North Dakota,Ward ,65554,70210,7.1
+2041, North Dakota,Wells ,4266,4098,-3.94
+2042, North Dakota,Williams ,26741,34337,28.41
+2043, Ohio,Adams ,28358,27907,-1.59
+2044, Ohio,Allen ,105295,103742,-1.47
+2045, Ohio,Ashland ,53247,53652,0.76
+2046, Ohio,Ashtabula ,100251,98231,-2.01
+2047, Ohio,Athens ,64605,66186,2.45
+2048, Ohio,Auglaize ,45869,45894,0.05
+2049, Ohio,Belmont ,69612,68673,-1.35
+2050, Ohio,Brown ,44392,43759,-1.43
+2051, Ohio,Butler ,370651,377537,1.86
+2052, Ohio,Carroll ,28587,27669,-3.21
+2053, Ohio,Champaign ,39574,38747,-2.09
+2054, Ohio,Clark ,137172,134786,-1.74
+2055, Ohio,Clermont ,199195,203022,1.92
+2056, Ohio,Clinton ,41828,41902,0.18
+2057, Ohio,Columbiana ,106417,103685,-2.57
+2058, Ohio,Coshocton ,36818,36602,-0.59
+2059, Ohio,Crawford ,42828,42083,-1.74
+2060, Ohio,Cuyahoga ,1265611,1249352,-1.28
+2061, Ohio,Darke ,52496,51778,-1.37
+2062, Ohio,Defiance ,38829,38158,-1.73
+2063, Ohio,Delaware ,181128,196463,8.47
+2064, Ohio,Erie ,76455,75107,-1.76
+2065, Ohio,Fairfield ,147500,152597,3.46
+2066, Ohio,Fayette ,28838,28676,-0.56
+2067, Ohio,Franklin ,1197640,1264518,5.58
+2068, Ohio,Fulton ,42452,42514,0.15
+2069, Ohio,Gallia ,30843,30015,-2.68
+2070, Ohio,Geauga ,93862,94060,0.21
+2071, Ohio,Greene ,164421,164765,0.21
+2072, Ohio,Guernsey ,39836,39063,-1.94
+2073, Ohio,Hamilton ,802326,809099,0.84
+2074, Ohio,Hancock ,75638,75872,0.31
+2075, Ohio,Hardin ,31639,31474,-0.52
+2076, Ohio,Harrison ,15703,15307,-2.52
+2077, Ohio,Henry ,28074,27629,-1.59
+2078, Ohio,Highland ,43034,43029,-0.01
+2079, Ohio,Hocking ,29304,28340,-3.29
+2080, Ohio,Holmes ,43138,43936,1.85
+2081, Ohio,Huron ,59243,58439,-1.36
+2082, Ohio,Jackson ,32909,32505,-1.23
+2083, Ohio,Jefferson ,68336,66704,-2.39
+2084, Ohio,Knox ,60790,60814,0.04
+2085, Ohio,Lake ,229409,228614,-0.35
+2086, Ohio,Lawrence ,62114,60872,-2.0
+2087, Ohio,Licking ,167765,172198,2.64
+2088, Ohio,Logan ,45444,45165,-0.61
+2089, Ohio,Lorain ,301689,306365,1.55
+2090, Ohio,Lucas ,437135,432488,-1.06
+2091, Ohio,Madison ,42968,43419,1.05
+2092, Ohio,Mahoning ,235777,230008,-2.45
+2093, Ohio,Marion ,66229,65096,-1.71
+2094, Ohio,Medina ,173669,177221,2.05
+2095, Ohio,Meigs ,23602,23125,-2.02
+2096, Ohio,Mercer ,40850,40909,0.14
+2097, Ohio,Miami ,103103,104679,1.53
+2098, Ohio,Monroe ,14578,14210,-2.52
+2099, Ohio,Montgomery ,534692,531239,-0.65
+2100, Ohio,Morgan ,14966,14804,-1.08
+2101, Ohio,Morrow ,34972,35036,0.18
+2102, Ohio,Muskingum ,85872,86068,0.23
+2103, Ohio,Noble ,14583,14294,-1.98
+2104, Ohio,Ottawa ,41307,40636,-1.62
+2105, Ohio,Paulding ,19270,18865,-2.1
+2106, Ohio,Perry ,35991,35927,-0.18
+2107, Ohio,Pickaway ,56326,57565,2.2
+2108, Ohio,Pike ,28486,28160,-1.14
+2109, Ohio,Portage ,161427,161921,0.31
+2110, Ohio,Preble ,41880,41247,-1.51
+2111, Ohio,Putnam ,34189,34056,-0.39
+2112, Ohio,Richland ,122590,121107,-1.21
+2113, Ohio,Ross ,77418,77000,-0.54
+2114, Ohio,Sandusky ,60492,59330,-1.92
+2115, Ohio,Scioto ,78586,76088,-3.18
+2116, Ohio,Seneca ,56038,55353,-1.22
+2117, Ohio,Shelby ,49133,48623,-1.04
+2118, Ohio,Stark ,374807,373612,-0.32
+2119, Ohio,Summit ,541050,540300,-0.14
+2120, Ohio,Trumbull ,207371,201825,-2.67
+2121, Ohio,Tuscarawas ,92452,92420,-0.03
+2122, Ohio,Union ,52834,55457,4.96
+2123, Ohio,Van Wert ,28715,28362,-1.23
+2124, Ohio,Vinton ,13232,12921,-2.35
+2125, Ohio,Warren ,217788,227063,4.26
+2126, Ohio,Washington ,61494,60610,-1.44
+2127, Ohio,Wayne ,115045,116470,1.24
+2128, Ohio,Williams ,37553,37017,-1.43
+2129, Ohio,Wood ,128609,130219,1.25
+2130, Ohio,Wyandot ,22595,22118,-2.11
+2131, Oklahoma,Adair ,22252,22098,-0.69
+2132, Oklahoma,Alfalfa ,5653,5827,3.08
+2133, Oklahoma,Atoka ,13978,13810,-1.2
+2134, Oklahoma,Beaver ,5584,5382,-3.62
+2135, Oklahoma,Beckham ,23123,22519,-2.61
+2136, Oklahoma,Blaine ,9814,9643,-1.74
+2137, Oklahoma,Bryan ,43458,45573,4.87
+2138, Oklahoma,Caddo ,29680,29557,-0.41
+2139, Oklahoma,Canadian ,122543,136532,11.42
+2140, Oklahoma,Carter ,48099,48556,0.95
+2141, Oklahoma,Cherokee ,48051,48700,1.35
+2142, Oklahoma,Choctaw ,15173,14885,-1.9
+2143, Oklahoma,Cimarron ,2392,2162,-9.62
+2144, Oklahoma,Cleveland ,266199,278655,4.68
+2145, Oklahoma,Coal ,5906,5651,-4.32
+2146, Oklahoma,Comanche ,126609,122136,-3.53
+2147, Oklahoma,Cotton ,6146,5941,-3.34
+2148, Oklahoma,Craig ,14720,14625,-0.65
+2149, Oklahoma,Creek ,70889,71312,0.6
+2150, Oklahoma,Custer ,28511,29293,2.74
+2151, Oklahoma,Delaware ,41397,41598,0.49
+2152, Oklahoma,Dewey ,4786,4819,0.69
+2153, Oklahoma,Ellis ,4069,4080,0.27
+2154, Oklahoma,Garfield ,61278,62603,2.16
+2155, Oklahoma,Garvin ,27302,27838,1.96
+2156, Oklahoma,Grady ,53054,54655,3.02
+2157, Oklahoma,Grant ,4510,4465,-1.0
+2158, Oklahoma,Greer ,6059,5998,-1.01
+2159, Oklahoma,Harmon ,2907,2704,-6.98
+2160, Oklahoma,Harper ,3707,3717,0.27
+2161, Oklahoma,Haskell ,12866,12747,-0.92
+2162, Oklahoma,Hughes ,13797,13566,-1.67
+2163, Oklahoma,Jackson ,26260,25497,-2.91
+2164, Oklahoma,Jefferson ,6329,6230,-1.56
+2165, Oklahoma,Johnston ,10987,11087,0.91
+2166, Oklahoma,Kay ,45681,44943,-1.62
+2167, Oklahoma,Kingfisher ,14989,15638,4.33
+2168, Oklahoma,Kiowa ,9346,9077,-2.88
+2169, Oklahoma,Latimer ,10946,10414,-4.86
+2170, Oklahoma,Le Flore ,49983,49873,-0.22
+2171, Oklahoma,Lincoln ,34209,35129,2.69
+2172, Oklahoma,Logan ,43673,46588,6.67
+2173, Oklahoma,Love ,9565,9997,4.52
+2174, Oklahoma,McClain ,35615,38682,8.61
+2175, Oklahoma,McCurtain ,33240,32822,-1.26
+2176, Oklahoma,McIntosh ,20521,19815,-3.44
+2177, Oklahoma,Major ,7669,7772,1.34
+2178, Oklahoma,Marshall ,15911,16191,1.76
+2179, Oklahoma,Mayes ,41124,40920,-0.5
+2180, Oklahoma,Murray ,13637,13918,2.06
+2181, Oklahoma,Muskogee ,70531,69477,-1.49
+2182, Oklahoma,Noble ,11515,11384,-1.14
+2183, Oklahoma,Nowata ,10597,10419,-1.68
+2184, Oklahoma,Okfuskee ,12292,12167,-1.02
+2185, Oklahoma,Oklahoma ,742541,782970,5.44
+2186, Oklahoma,Okmulgee ,39607,39213,-0.99
+2187, Oklahoma,Osage ,47996,47806,-0.4
+2188, Oklahoma,Ottawa ,32225,31691,-1.66
+2189, Oklahoma,Pawnee ,16457,16485,0.17
+2190, Oklahoma,Payne ,78457,81131,3.41
+2191, Oklahoma,Pittsburg ,45111,44173,-2.08
+2192, Oklahoma,Pontotoc ,38039,38330,0.77
+2193, Oklahoma,Pottawatomie ,70679,72290,2.28
+2194, Oklahoma,Pushmataha ,11227,11057,-1.51
+2195, Oklahoma,Roger Mills ,3773,3640,-3.53
+2196, Oklahoma,Rogers ,88404,91766,3.8
+2197, Oklahoma,Seminole ,25468,25207,-1.02
+2198, Oklahoma,Sequoyah ,41489,41294,-0.47
+2199, Oklahoma,Stephens ,44873,44090,-1.74
+2200, Oklahoma,Texas ,21470,21098,-1.73
+2201, Oklahoma,Tillman ,7788,7465,-4.15
+2202, Oklahoma,Tulsa ,614582,642940,4.61
+2203, Oklahoma,Wagoner ,75043,77679,3.51
+2204, Oklahoma,Washington ,51579,52087,0.98
+2205, Oklahoma,Washita ,11654,11447,-1.78
+2206, Oklahoma,Woods ,8838,9201,4.11
+2207, Oklahoma,Woodward ,20622,20814,0.93
+2208, Oregon,Baker ,15987,16059,0.45
+2209, Oregon,Benton ,86441,89385,3.41
+2210, Oregon,Clackamas ,383339,408062,6.45
+2211, Oregon,Clatsop ,37351,38632,3.43
+2212, Oregon,Columbia ,49201,50785,3.22
+2213, Oregon,Coos ,62745,63761,1.62
+2214, Oregon,Crook ,20642,22570,9.34
+2215, Oregon,Curry ,22237,22713,2.14
+2216, Oregon,Deschutes ,161765,181307,12.08
+2217, Oregon,Douglas ,107111,108457,1.26
+2218, Oregon,Gilliam ,1947,1854,-4.78
+2219, Oregon,Grant ,7328,7158,-2.32
+2220, Oregon,Harney ,7246,7292,0.63
+2221, Oregon,Hood River ,22587,23232,2.86
+2222, Oregon,Jackson ,206346,216527,4.93
+2223, Oregon,Jefferson ,21763,23080,6.05
+2224, Oregon,Josephine ,82798,85904,3.75
+2225, Oregon,Klamath ,66075,66443,0.56
+2226, Oregon,Lake ,7768,7837,0.89
+2227, Oregon,Lane ,354993,369519,4.09
+2228, Oregon,Lincoln ,46158,47806,3.57
+2229, Oregon,Linn ,118332,122849,3.82
+2230, Oregon,Malheur ,30619,30439,-0.59
+2231, Oregon,Marion ,319946,336316,5.12
+2232, Oregon,Morrow ,11237,11274,0.33
+2233, Oregon,Multnomah ,759071,799766,5.36
+2234, Oregon,Polk ,76298,81823,7.24
+2235, Oregon,Sherman ,1732,1710,-1.27
+2236, Oregon,Tillamook ,25329,26143,3.21
+2237, Oregon,Umatilla ,76891,76456,-0.57
+2238, Oregon,Union ,25807,26087,1.08
+2239, Oregon,Wallowa ,6810,6946,2.0
+2240, Oregon,Wasco ,25470,26115,2.53
+2241, Oregon,Washington ,547639,582779,6.42
+2242, Oregon,Wheeler ,1420,1344,-5.35
+2243, Oregon,Yamhill ,100687,105035,4.32
+2244, Pennsylvania,Adams ,101535,102180,0.64
+2245, Pennsylvania,Allegheny ,1230842,1225365,-0.44
+2246, Pennsylvania,Armstrong ,68367,66486,-2.75
+2247, Pennsylvania,Beaver ,170250,167429,-1.66
+2248, Pennsylvania,Bedford ,49375,48325,-2.13
+2249, Pennsylvania,Berks ,413331,414812,0.36
+2250, Pennsylvania,Blair ,126991,124650,-1.84
+2251, Pennsylvania,Bradford ,62847,60770,-3.3
+2252, Pennsylvania,Bucks ,625930,626399,0.07
+2253, Pennsylvania,Butler ,185081,186847,0.95
+2254, Pennsylvania,Cambria ,141531,134732,-4.8
+2255, Pennsylvania,Cameron ,4946,4677,-5.44
+2256, Pennsylvania,Carbon ,64963,63594,-2.11
+2257, Pennsylvania,Centre ,155936,161464,3.55
+2258, Pennsylvania,Chester ,506278,516312,1.98
+2259, Pennsylvania,Clarion ,39437,38513,-2.34
+2260, Pennsylvania,Clearfield ,81479,80596,-1.08
+2261, Pennsylvania,Clinton ,39740,39233,-1.28
+2262, Pennsylvania,Columbia ,66888,66420,-0.7
+2263, Pennsylvania,Crawford ,87675,86257,-1.62
+2264, Pennsylvania,Cumberland ,239217,248506,3.88
+2265, Pennsylvania,Dauphin ,269961,273707,1.39
+2266, Pennsylvania,Delaware ,560834,563402,0.46
+2267, Pennsylvania,Elk ,31627,30480,-3.63
+2268, Pennsylvania,Erie ,281541,276207,-1.89
+2269, Pennsylvania,Fayette ,135464,132733,-2.02
+2270, Pennsylvania,Forest ,7655,7321,-4.36
+2271, Pennsylvania,Franklin ,151575,153851,1.5
+2272, Pennsylvania,Fulton ,14749,14640,-0.74
+2273, Pennsylvania,Greene ,38063,37197,-2.28
+2274, Pennsylvania,Huntingdon ,46052,45634,-0.91
+2275, Pennsylvania,Indiana ,88255,86364,-2.14
+2276, Pennsylvania,Jefferson ,44839,44073,-1.71
+2277, Pennsylvania,Juniata ,24900,24863,-0.15
+2278, Pennsylvania,Lackawanna ,214583,211321,-1.52
+2279, Pennsylvania,Lancaster ,526864,538500,2.21
+2280, Pennsylvania,Lawrence ,89713,87294,-2.7
+2281, Pennsylvania,Lebanon ,135633,138863,2.38
+2282, Pennsylvania,Lehigh ,355403,363147,2.18
+2283, Pennsylvania,Luzerne ,321420,316383,-1.57
+2284, Pennsylvania,Lycoming ,117319,115248,-1.77
+2285, Pennsylvania,McKean ,43234,41883,-3.12
+2286, Pennsylvania,Mercer ,115806,112913,-2.5
+2287, Pennsylvania,Mifflin ,46832,46342,-1.05
+2288, Pennsylvania,Monroe ,168567,166098,-1.46
+2289, Pennsylvania,Montgomery ,809540,821725,1.51
+2290, Pennsylvania,Montour ,18454,18343,-0.6
+2291, Pennsylvania,Northampton ,299293,302294,1.0
+2292, Pennsylvania,Northumberland ,94512,92541,-2.09
+2293, Pennsylvania,Perry ,45720,45820,0.22
+2294, Pennsylvania,Philadelphia ,1550379,1567872,1.13
+2295, Pennsylvania,Pike ,56758,55562,-2.11
+2296, Pennsylvania,Potter ,17610,16885,-4.12
+2297, Pennsylvania,Schuylkill ,147302,143573,-2.53
+2298, Pennsylvania,Snyder ,39803,40468,1.67
+2299, Pennsylvania,Somerset ,77191,75061,-2.76
+2300, Pennsylvania,Sullivan ,6446,6137,-4.79
+2301, Pennsylvania,Susquehanna ,42758,40862,-4.43
+2302, Pennsylvania,Tioga ,42606,41467,-2.67
+2303, Pennsylvania,Union ,45143,45565,0.93
+2304, Pennsylvania,Venango ,54232,52582,-3.04
+2305, Pennsylvania,Warren ,41239,40025,-2.94
+2306, Pennsylvania,Washington ,208480,207981,-0.24
+2307, Pennsylvania,Wayne ,51695,50710,-1.91
+2308, Pennsylvania,Westmoreland ,363179,355458,-2.13
+2309, Pennsylvania,Wyoming ,28345,27521,-2.91
+2310, Pennsylvania,York ,437641,443744,1.39
+2311, Rhode Island,Bristol ,49264,49067,-0.4
+2312, Rhode Island,Kent ,165134,164614,-0.31
+2313, Rhode Island,Newport ,82948,82784,-0.2
+2314, Rhode Island,Providence ,629364,633673,0.68
+2315, Rhode Island,Washington ,126191,126288,0.08
+2316, South Carolina,Abbeville ,25054,24872,-0.73
+2317, South Carolina,Aiken ,163284,167458,2.56
+2318, South Carolina,Allendale ,9988,9045,-9.44
+2319, South Carolina,Anderson ,189328,196569,3.82
+2320, South Carolina,Bamberg ,15708,14434,-8.11
+2321, South Carolina,Barnwell ,22295,21483,-3.64
+2322, South Carolina,Beaufort ,167460,183149,9.37
+2323, South Carolina,Berkeley ,189560,210898,11.26
+2324, South Carolina,Calhoun ,14915,14796,-0.8
+2325, South Carolina,Charleston ,365097,396484,8.6
+2326, South Carolina,Cherokee ,55860,56646,1.41
+2327, South Carolina,Chester ,32659,32181,-1.46
+2328, South Carolina,Chesterfield ,46096,46013,-0.18
+2329, South Carolina,Clarendon ,34265,33951,-0.92
+2330, South Carolina,Colleton ,38224,37923,-0.79
+2331, South Carolina,Darlington ,68123,67234,-1.3
+2332, South Carolina,Dillon ,31534,30858,-2.14
+2333, South Carolina,Dorchester ,142466,153773,7.94
+2334, South Carolina,Edgefield ,26342,26358,0.06
+2335, South Carolina,Fairfield ,23393,22653,-3.16
+2336, South Carolina,Florence ,138030,138742,0.52
+2337, South Carolina,Georgetown ,60232,61399,1.94
+2338, South Carolina,Greenville ,466431,498766,6.93
+2339, South Carolina,Greenwood ,69913,70133,0.31
+2340, South Carolina,Hampton ,20725,19922,-3.87
+2341, South Carolina,Horry ,281772,322342,14.4
+2342, South Carolina,Jasper ,25952,28465,9.68
+2343, South Carolina,Kershaw ,62206,64097,3.04
+2344, South Carolina,Lancaster ,79184,89594,13.15
+2345, South Carolina,Laurens ,66243,66777,0.81
+2346, South Carolina,Lee ,18672,17635,-5.55
+2347, South Carolina,Lexington ,269949,286196,6.02
+2348, South Carolina,McCormick ,9944,9643,-3.03
+2349, South Carolina,Marion ,32425,31726,-2.16
+2350, South Carolina,Marlboro ,28159,26945,-4.31
+2351, South Carolina,Newberry ,37561,38079,1.38
+2352, South Carolina,Oconee ,74603,76355,2.35
+2353, South Carolina,Orangeburg ,91397,87903,-3.82
+2354, South Carolina,Pickens ,119634,122863,2.7
+2355, South Carolina,Richland ,393501,409549,4.08
+2356, South Carolina,Saluda ,19977,20197,1.1
+2357, South Carolina,Spartanburg ,288422,301463,4.52
+2358, South Carolina,Sumter ,107943,107396,-0.51
+2359, South Carolina,Union ,28221,27673,-1.94
+2360, South Carolina,Williamsburg ,33628,31955,-4.98
+2361, South Carolina,York ,234385,258526,10.3
+2362, South Dakota,Aurora ,2748,2736,-0.44
+2363, South Dakota,Beadle ,18004,18101,0.54
+2364, South Dakota,Bennett ,3440,3460,0.58
+2365, South Dakota,Bon Homme ,7039,6984,-0.78
+2366, South Dakota,Brookings ,32700,34135,4.39
+2367, South Dakota,Brown ,37597,39128,4.07
+2368, South Dakota,Brule ,5320,5238,-1.54
+2369, South Dakota,Buffalo ,2016,2043,1.34
+2370, South Dakota,Butte ,10244,10205,-0.38
+2371, South Dakota,Campbell ,1389,1378,-0.79
+2372, South Dakota,Charles Mix ,9202,9396,2.11
+2373, South Dakota,Clark ,3587,3656,1.92
+2374, South Dakota,Clay ,14125,14086,-0.28
+2375, South Dakota,Codington ,27607,28063,1.65
+2376, South Dakota,Corson ,4085,4132,1.15
+2377, South Dakota,Custer ,8319,8596,3.33
+2378, South Dakota,Davison ,19788,19903,0.58
+2379, South Dakota,Day ,5632,5571,-1.08
+2380, South Dakota,Deuel ,4371,4231,-3.2
+2381, South Dakota,Dewey ,5545,5742,3.55
+2382, South Dakota,Douglas ,2961,2932,-0.98
+2383, South Dakota,Edmunds ,4027,3952,-1.86
+2384, South Dakota,Fall River ,6989,6849,-2.0
+2385, South Dakota,Faulk ,2371,2354,-0.72
+2386, South Dakota,Grant ,7257,7148,-1.5
+2387, South Dakota,Gregory ,4256,4171,-2.0
+2388, South Dakota,Haakon ,1913,1892,-1.1
+2389, South Dakota,Hamlin ,5954,6028,1.24
+2390, South Dakota,Hand ,3390,3319,-2.09
+2391, South Dakota,Hanson ,3382,3374,-0.24
+2392, South Dakota,Harding ,1318,1278,-3.03
+2393, South Dakota,Hughes ,17433,17600,0.96
+2394, South Dakota,Hutchinson ,7223,7368,2.01
+2395, South Dakota,Hyde ,1430,1352,-5.45
+2396, South Dakota,Jackson ,3175,3326,4.76
+2397, South Dakota,Jerauld ,2040,2004,-1.76
+2398, South Dakota,Jones ,1007,927,-7.94
+2399, South Dakota,Kingsbury ,5234,5001,-4.45
+2400, South Dakota,Lake ,11827,12909,9.15
+2401, South Dakota,Lawrence ,24385,25281,3.67
+2402, South Dakota,Lincoln ,48329,54469,12.7
+2403, South Dakota,Lyman ,3781,3894,2.99
+2404, South Dakota,McCook ,5600,5625,0.45
+2405, South Dakota,McPherson ,2428,2438,0.41
+2406, South Dakota,Marshall ,4662,4801,2.98
+2407, South Dakota,Meade ,25930,27693,6.8
+2408, South Dakota,Mellette ,2091,2102,0.53
+2409, South Dakota,Miner ,2321,2281,-1.72
+2410, South Dakota,Minnehaha ,175494,187318,6.74
+2411, South Dakota,Moody ,6457,6505,0.74
+2412, South Dakota,Oglala Lakota ,14071,14415,2.44
+2413, South Dakota,Pennington ,104393,109372,4.77
+2414, South Dakota,Perkins ,3030,2983,-1.55
+2415, South Dakota,Potter ,2351,2299,-2.21
+2416, South Dakota,Roberts ,10341,10255,-0.83
+2417, South Dakota,Sanborn ,2325,2396,3.05
+2418, South Dakota,Spink ,6650,6420,-3.46
+2419, South Dakota,Stanley ,2963,2993,1.01
+2420, South Dakota,Sully ,1441,1421,-1.39
+2421, South Dakota,Todd ,9938,10155,2.18
+2422, South Dakota,Tripp ,5485,5492,0.13
+2423, South Dakota,Turner ,8330,8317,-0.16
+2424, South Dakota,Union ,14770,14934,1.11
+2425, South Dakota,Walworth ,5470,5610,2.56
+2426, South Dakota,Yankton ,22595,22616,0.09
+2427, South Dakota,Ziebach ,2865,2801,-2.23
+2428, Tennessee,Anderson ,75326,75936,0.81
+2429, Tennessee,Bedford ,45307,47484,4.8
+2430, Tennessee,Benton ,16354,16014,-2.08
+2431, Tennessee,Bledsoe ,12791,14675,14.73
+2432, Tennessee,Blount ,124069,128670,3.71
+2433, Tennessee,Bradley ,101101,104490,3.35
+2434, Tennessee,Campbell ,40460,39714,-1.84
+2435, Tennessee,Cannon ,13868,14027,1.15
+2436, Tennessee,Carroll ,28707,28092,-2.14
+2437, Tennessee,Carter ,57309,56502,-1.41
+2438, Tennessee,Cheatham ,39245,39880,1.62
+2439, Tennessee,Chester ,17213,17453,1.39
+2440, Tennessee,Claiborne ,31770,31757,-0.04
+2441, Tennessee,Clay ,7801,7752,-0.63
+2442, Tennessee,Cocke ,35450,35219,-0.65
+2443, Tennessee,Coffee ,53132,54682,2.92
+2444, Tennessee,Crockett ,14607,14411,-1.34
+2445, Tennessee,Cumberland ,57073,58655,2.77
+2446, Tennessee,Davidson ,649004,684410,5.46
+2447, Tennessee,Decatur ,11660,11769,0.93
+2448, Tennessee,DeKalb ,18911,19361,2.38
+2449, Tennessee,Dickson ,50177,52170,3.97
+2450, Tennessee,Dyer ,38246,37708,-1.41
+2451, Tennessee,Fayette ,38662,39590,2.4
+2452, Tennessee,Fentress ,17924,18033,0.61
+2453, Tennessee,Franklin ,40786,41700,2.24
+2454, Tennessee,Gibson ,49689,49401,-0.58
+2455, Tennessee,Giles ,29006,29307,1.04
+2456, Tennessee,Grainger ,22649,23072,1.87
+2457, Tennessee,Greene ,68654,68615,-0.06
+2458, Tennessee,Grundy ,13653,13389,-1.93
+2459, Tennessee,Hamblen ,62712,63785,1.71
+2460, Tennessee,Hamilton ,345783,357738,3.46
+2461, Tennessee,Hancock ,6675,6577,-1.47
+2462, Tennessee,Hardeman ,26528,25435,-4.12
+2463, Tennessee,Hardin ,26005,25679,-1.25
+2464, Tennessee,Hawkins ,56561,56563,0.0
+2465, Tennessee,Haywood ,18281,17853,-2.34
+2466, Tennessee,Henderson ,28006,27822,-0.66
+2467, Tennessee,Henry ,32373,32310,-0.19
+2468, Tennessee,Hickman ,24132,24295,0.68
+2469, Tennessee,Houston ,8408,8134,-3.26
+2470, Tennessee,Humphreys ,18271,18347,0.42
+2471, Tennessee,Jackson ,11524,11566,0.36
+2472, Tennessee,Jefferson ,52428,53535,2.11
+2473, Tennessee,Johnson ,18121,17754,-2.03
+2474, Tennessee,Knox ,440793,456132,3.48
+2475, Tennessee,Lake ,7710,7560,-1.95
+2476, Tennessee,Lauderdale ,27676,26773,-3.26
+2477, Tennessee,Lawrence ,42133,43081,2.25
+2478, Tennessee,Lewis ,11918,11904,-0.12
+2479, Tennessee,Lincoln ,33442,33645,0.61
+2480, Tennessee,Loudon ,49732,51454,3.46
+2481, Tennessee,McMinn ,52429,52850,0.8
+2482, Tennessee,McNairy ,26160,25935,-0.86
+2483, Tennessee,Macon ,22501,23450,4.22
+2484, Tennessee,Madison ,98523,97663,-0.87
+2485, Tennessee,Marion ,28218,28446,0.81
+2486, Tennessee,Marshall ,30928,31915,3.19
+2487, Tennessee,Maury ,81969,89981,9.77
+2488, Tennessee,Meigs ,11701,12005,2.6
+2489, Tennessee,Monroe ,45150,45970,1.82
+2490, Tennessee,Montgomery ,185225,195734,5.67
+2491, Tennessee,Moore ,6336,6323,-0.21
+2492, Tennessee,Morgan ,21947,21554,-1.79
+2493, Tennessee,Obion ,31346,30578,-2.45
+2494, Tennessee,Overton ,22222,22051,-0.77
+2495, Tennessee,Perry ,7854,7964,1.4
+2496, Tennessee,Pickett ,5070,5142,1.42
+2497, Tennessee,Polk ,16606,16772,1.0
+2498, Tennessee,Putnam ,73487,75931,3.33
+2499, Tennessee,Rhea ,32338,32442,0.32
+2500, Tennessee,Roane ,53506,52874,-1.18
+2501, Tennessee,Robertson ,66743,69165,3.63
+2502, Tennessee,Rutherford ,274386,308251,12.34
+2503, Tennessee,Scott ,22175,21947,-1.03
+2504, Tennessee,Sequatchie ,14426,14897,3.26
+2505, Tennessee,Sevier ,92299,96673,4.74
+2506, Tennessee,Shelby ,938965,934603,-0.46
+2507, Tennessee,Smith ,19114,19447,1.74
+2508, Tennessee,Stewart ,13311,13182,-0.97
+2509, Tennessee,Sullivan ,156547,156667,0.08
+2510, Tennessee,Sumner ,166101,180063,8.41
+2511, Tennessee,Tipton ,61609,61303,-0.5
+2512, Tennessee,Trousdale ,7774,8271,6.39
+2513, Tennessee,Unicoi ,18227,17719,-2.79
+2514, Tennessee,Union ,19120,19140,0.1
+2515, Tennessee,Van Buren ,5635,5689,0.96
+2516, Tennessee,Warren ,39745,40516,1.94
+2517, Tennessee,Washington ,124907,127440,2.03
+2518, Tennessee,Wayne ,16996,16713,-1.67
+2519, Tennessee,Weakley ,34594,33507,-3.14
+2520, Tennessee,White ,26096,26653,2.13
+2521, Tennessee,Williamson ,193095,219107,13.47
+2522, Tennessee,Wilson ,119109,132781,11.48
+2523, Texas,Anderson ,58019,57734,-0.49
+2524, Texas,Andrews ,16107,17760,10.26
+2525, Texas,Angelina ,87520,87791,0.31
+2526, Texas,Aransas ,23665,25721,8.69
+2527, Texas,Archer ,8785,8703,-0.93
+2528, Texas,Armstrong ,1945,1876,-3.55
+2529, Texas,Atascosa ,46455,48797,5.04
+2530, Texas,Austin ,28547,29758,4.24
+2531, Texas,Bailey ,7134,7181,0.66
+2532, Texas,Bandera ,20607,21776,5.67
+2533, Texas,Bastrop ,74738,82733,10.7
+2534, Texas,Baylor ,3618,3697,2.18
+2535, Texas,Bee ,32448,32750,0.93
+2536, Texas,Bell ,323105,340411,5.36
+2537, Texas,Bexar ,1788530,1928680,7.84
+2538, Texas,Blanco ,10641,11392,7.06
+2539, Texas,Borden ,613,633,3.26
+2540, Texas,Bosque ,18118,18097,-0.12
+2541, Texas,Bowie ,93136,93860,0.78
+2542, Texas,Brazoria ,324373,354195,9.19
+2543, Texas,Brazos ,200247,220417,10.07
+2544, Texas,Brewster ,9243,9200,-0.47
+2545, Texas,Briscoe ,1566,1474,-5.87
+2546, Texas,Brooks ,7189,7214,0.35
+2547, Texas,Brown ,37852,38271,1.11
+2548, Texas,Burleson ,17329,17760,2.49
+2549, Texas,Burnet ,43506,46243,6.29
+2550, Texas,Caldwell ,38699,41161,6.36
+2551, Texas,Calhoun ,21573,21965,1.82
+2552, Texas,Callahan ,13516,13820,2.25
+2553, Texas,Cameron ,415445,422135,1.61
+2554, Texas,Camp ,12467,12867,3.21
+2555, Texas,Carson ,6109,6057,-0.85
+2556, Texas,Cass ,30205,30375,0.56
+2557, Texas,Castro ,8187,7669,-6.33
+2558, Texas,Chambers ,36408,39899,9.59
+2559, Texas,Cherokee ,51200,51668,0.91
+2560, Texas,Childress ,7089,7052,-0.52
+2561, Texas,Clay ,10513,10193,-3.04
+2562, Texas,Cochran ,3021,2882,-4.6
+2563, Texas,Coke ,3218,3264,1.43
+2564, Texas,Coleman ,8677,8420,-2.96
+2565, Texas,Collin ,837229,939585,12.23
+2566, Texas,Collingsworth ,3022,3016,-0.2
+2567, Texas,Colorado ,20684,21019,1.62
+2568, Texas,Comal ,115005,134788,17.2
+2569, Texas,Comanche ,13705,13484,-1.61
+2570, Texas,Concho ,4073,4279,5.06
+2571, Texas,Cooke ,38771,39266,1.28
+2572, Texas,Coryell ,76837,74686,-2.8
+2573, Texas,Cottle ,1485,1402,-5.59
+2574, Texas,Crane ,4562,4830,5.87
+2575, Texas,Crockett ,3717,3675,-1.13
+2576, Texas,Crosby ,6097,5992,-1.72
+2577, Texas,Culberson ,2309,2198,-4.81
+2578, Texas,Dallam ,6978,7056,1.12
+2579, Texas,Dallas ,2452421,2574984,5.0
+2580, Texas,Dawson ,13647,13111,-3.93
+2581, Texas,Deaf Smith ,19327,18830,-2.57
+2582, Texas,Delta ,5301,5215,-1.62
+2583, Texas,Denton ,707475,806180,13.95
+2584, Texas,DeWitt ,20478,20865,1.89
+2585, Texas,Dickens ,2315,2184,-5.66
+2586, Texas,Dimmit ,10487,10794,2.93
+2587, Texas,Donley ,3651,3405,-6.74
+2588, Texas,Duval ,11586,11428,-1.36
+2589, Texas,Eastland ,18408,18274,-0.73
+2590, Texas,Ector ,144513,157462,8.96
+2591, Texas,Edwards ,1974,1911,-3.19
+2592, Texas,Ellis ,153730,168499,9.61
+2593, Texas,El Paso ,830853,837918,0.85
+2594, Texas,Erath ,39488,41659,5.5
+2595, Texas,Falls ,17554,17273,-1.6
+2596, Texas,Fannin ,33695,34031,1.0
+2597, Texas,Fayette ,24706,25149,1.79
+2598, Texas,Fisher ,3840,3854,0.36
+2599, Texas,Floyd ,6372,5917,-7.14
+2600, Texas,Foard ,1310,1183,-9.69
+2601, Texas,Fort Bend ,625796,741237,18.45
+2602, Texas,Franklin ,10609,10607,-0.02
+2603, Texas,Freestone ,19431,19624,0.99
+2604, Texas,Frio ,17876,18956,6.04
+2605, Texas,Gaines ,18377,20478,11.43
+2606, Texas,Galveston ,301067,329431,9.42
+2607, Texas,Garza ,6450,6442,-0.12
+2608, Texas,Gillespie ,25167,26521,5.38
+2609, Texas,Glasscock ,1259,1314,4.37
+2610, Texas,Goliad ,7329,7517,2.57
+2611, Texas,Gonzales ,19910,20876,4.85
+2612, Texas,Gray ,22834,22725,-0.48
+2613, Texas,Grayson ,121636,128235,5.43
+2614, Texas,Gregg ,122835,123745,0.74
+2615, Texas,Grimes ,26703,27671,3.63
+2616, Texas,Guadalupe ,139741,155265,11.11
+2617, Texas,Hale ,36284,34263,-5.57
+2618, Texas,Hall ,3280,3138,-4.33
+2619, Texas,Hamilton ,8289,8304,0.18
+2620, Texas,Hansford ,5529,5538,0.16
+2621, Texas,Hardeman ,4062,3906,-3.84
+2622, Texas,Hardin ,55114,56322,2.19
+2623, Texas,Harris ,4259206,4589928,7.76
+2624, Texas,Harrison ,66283,66534,0.38
+2625, Texas,Hartley ,6152,5747,-6.58
+2626, Texas,Haskell ,5907,5681,-3.83
+2627, Texas,Hays ,168408,204470,21.41
+2628, Texas,Hemphill ,4070,4129,1.45
+2629, Texas,Henderson ,78951,79901,1.2
+2630, Texas,Hidalgo ,806388,849843,5.39
+2631, Texas,Hill ,35083,35077,-0.02
+2632, Texas,Hockley ,23108,23275,0.72
+2633, Texas,Hood ,52127,56857,9.07
+2634, Texas,Hopkins ,35391,36400,2.85
+2635, Texas,Houston ,23143,22754,-1.68
+2636, Texas,Howard ,35490,36708,3.43
+2637, Texas,Hudspeth ,3351,4053,20.95
+2638, Texas,Hunt ,87117,92073,5.69
+2639, Texas,Hutchinson ,21960,21511,-2.04
+2640, Texas,Irion ,1573,1557,-1.02
+2641, Texas,Jack ,8999,8744,-2.83
+2642, Texas,Jackson ,14279,14869,4.13
+2643, Texas,Jasper ,35859,35648,-0.59
+2644, Texas,Jeff Davis ,2303,2200,-4.47
+2645, Texas,Jefferson ,251250,254679,1.36
+2646, Texas,Jim Hogg ,5261,5146,-2.19
+2647, Texas,Jim Wells ,41672,41149,-1.26
+2648, Texas,Johnson ,153313,163274,6.5
+2649, Texas,Jones ,19873,20009,0.68
+2650, Texas,Karnes ,14859,15254,2.66
+2651, Texas,Kaufman ,106664,118350,10.96
+2652, Texas,Kendall ,35766,42540,18.94
+2653, Texas,Kenedy ,440,404,-8.18
+2654, Texas,Kent ,836,769,-8.01
+2655, Texas,Kerr ,49751,51504,3.52
+2656, Texas,Kimble ,4541,4423,-2.6
+2657, Texas,King ,272,289,6.25
+2658, Texas,Kinney ,3626,3590,-0.99
+2659, Texas,Kleberg ,32114,31690,-1.32
+2660, Texas,Knox ,3761,3806,1.2
+2661, Texas,Lamar ,49837,49791,-0.09
+2662, Texas,Lamb ,13917,13275,-4.61
+2663, Texas,Lampasas ,20117,20760,3.2
+2664, Texas,La Salle ,7141,7613,6.61
+2665, Texas,Lavaca ,19439,19809,1.9
+2666, Texas,Lee ,16553,17055,3.03
+2667, Texas,Leon ,16748,17299,3.29
+2668, Texas,Liberty ,76425,81704,6.91
+2669, Texas,Limestone ,23639,23468,-0.72
+2670, Texas,Lipscomb ,3457,3487,0.87
+2671, Texas,Live Oak ,11683,12056,3.19
+2672, Texas,Llano ,19102,20362,6.6
+2673, Texas,Loving ,81,113,39.51
+2674, Texas,Lubbock ,286241,303137,5.9
+2675, Texas,Lynn ,5773,5711,-1.07
+2676, Texas,McCulloch ,8273,8172,-1.22
+2677, Texas,McLennan ,239385,247934,3.57
+2678, Texas,McMullen ,735,804,9.39
+2679, Texas,Madison ,13715,13987,1.98
+2680, Texas,Marion ,10317,10147,-1.65
+2681, Texas,Martin ,5004,5723,14.37
+2682, Texas,Mason ,4042,4111,1.71
+2683, Texas,Matagorda ,36560,37187,1.71
+2684, Texas,Maverick ,55696,57685,3.57
+2685, Texas,Medina ,46811,49283,5.28
+2686, Texas,Menard ,2227,2123,-4.67
+2687, Texas,Midland ,147139,162565,10.48
+2688, Texas,Milam ,24138,24871,3.04
+2689, Texas,Mills ,4830,4907,1.59
+2690, Texas,Mitchell ,9320,8720,-6.44
+2691, Texas,Montague ,19470,19414,-0.29
+2692, Texas,Montgomery ,484674,556203,14.76
+2693, Texas,Moore ,22413,22120,-1.31
+2694, Texas,Morris ,12743,12593,-1.18
+2695, Texas,Motley ,1196,1160,-3.01
+2696, Texas,Nacogdoches ,65854,65806,-0.07
+2697, Texas,Navarro ,48095,48523,0.89
+2698, Texas,Newton ,14320,14003,-2.21
+2699, Texas,Nolan ,14881,14993,0.75
+2700, Texas,Nueces ,347816,361350,3.89
+2701, Texas,Ochiltree ,10559,10306,-2.4
+2702, Texas,Oldham ,2044,2076,1.57
+2703, Texas,Orange ,82984,84964,2.39
+2704, Texas,Palo Pinto ,27846,28053,0.74
+2705, Texas,Panola ,24010,23492,-2.16
+2706, Texas,Parker ,119778,129441,8.07
+2707, Texas,Parmer ,10159,9776,-3.77
+2708, Texas,Pecos ,15570,15970,2.57
+2709, Texas,Polk ,45835,47916,4.54
+2710, Texas,Potter ,122792,120832,-1.6
+2711, Texas,Presidio ,7557,6958,-7.93
+2712, Texas,Rains ,10944,11314,3.38
+2713, Texas,Randall ,124894,132501,6.09
+2714, Texas,Reagan ,3464,3608,4.16
+2715, Texas,Real ,3370,3389,0.56
+2716, Texas,Red River ,12722,12207,-4.05
+2717, Texas,Reeves ,13925,14921,7.15
+2718, Texas,Refugio ,7251,7321,0.97
+2719, Texas,Roberts ,950,916,-3.58
+2720, Texas,Robertson ,16449,16751,1.84
+2721, Texas,Rockwall ,82871,93978,13.4
+2722, Texas,Runnels ,10423,10448,0.24
+2723, Texas,Rusk ,53800,52732,-1.99
+2724, Texas,Sabine ,10469,10303,-1.59
+2725, Texas,San Augustine ,8830,8320,-5.78
+2726, Texas,San Jacinto ,27003,27707,2.61
+2727, Texas,San Patricio ,65336,67655,3.55
+2728, Texas,San Saba ,5983,5944,-0.65
+2729, Texas,Schleicher ,3255,3056,-6.11
+2730, Texas,Scurry ,17083,17333,1.46
+2731, Texas,Shackelford ,3344,3315,-0.87
+2732, Texas,Shelby ,26024,25579,-1.71
+2733, Texas,Sherman ,3061,3068,0.23
+2734, Texas,Smith ,214774,225290,4.9
+2735, Texas,Somervell ,8591,8775,2.14
+2736, Texas,Starr ,61883,64122,3.62
+2737, Texas,Stephens ,9475,9906,4.55
+2738, Texas,Sterling ,1191,1367,14.78
+2739, Texas,Stonewall ,1467,1426,-2.79
+2740, Texas,Sutton ,3932,3869,-1.6
+2741, Texas,Swisher ,7878,7466,-5.23
+2742, Texas,Tarrant ,1882352,2016872,7.15
+2743, Texas,Taylor ,134151,136535,1.78
+2744, Texas,Terrell ,917,812,-11.45
+2745, Texas,Terry ,12604,12799,1.55
+2746, Texas,Throckmorton ,1604,1533,-4.43
+2747, Texas,Titus ,32654,32592,-0.19
+2748, Texas,Tom Green ,113420,118386,4.38
+2749, Texas,Travis ,1096122,1199323,9.42
+2750, Texas,Trinity ,14313,14442,0.9
+2751, Texas,Tyler ,21444,21320,-0.58
+2752, Texas,Upshur ,39943,40969,2.57
+2753, Texas,Upton ,3258,3673,12.74
+2754, Texas,Uvalde ,26761,27285,1.96
+2755, Texas,Val Verde ,48866,48881,0.03
+2756, Texas,Van Zandt ,52273,54355,3.98
+2757, Texas,Victoria ,89076,92467,3.81
+2758, Texas,Walker ,68492,71484,4.37
+2759, Texas,Waller ,44321,50115,13.07
+2760, Texas,Ward ,10865,11600,6.76
+2761, Texas,Washington ,33939,35056,3.29
+2762, Texas,Webb ,259738,271193,4.41
+2763, Texas,Wharton ,41171,41735,1.37
+2764, Texas,Wheeler ,5593,5546,-0.84
+2765, Texas,Wichita ,131804,131838,0.03
+2766, Texas,Wilbarger ,13265,12892,-2.81
+2767, Texas,Willacy ,22139,21810,-1.49
+2768, Texas,Williamson ,456352,528718,15.86
+2769, Texas,Wilson ,44466,48480,9.03
+2770, Texas,Winkler ,7338,7893,7.56
+2771, Texas,Wise ,60412,64455,6.69
+2772, Texas,Wood ,42170,44227,4.88
+2773, Texas,Yoakum ,8057,8488,5.35
+2774, Texas,Young ,18301,18152,-0.81
+2775, Texas,Zapata ,14235,14349,0.8
+2776, Texas,Zavala ,11963,12023,0.5
+2777, Utah,Beaver ,6493,6463,-0.46
+2778, Utah,Box Elder ,50259,53139,5.73
+2779, Utah,Cache ,115931,122753,5.88
+2780, Utah,Carbon ,21242,20399,-3.97
+2781, Utah,Daggett ,1093,1095,0.18
+2782, Utah,Davis ,316165,342281,8.26
+2783, Utah,Duchesne ,19003,20337,7.02
+2784, Utah,Emery ,10919,10216,-6.44
+2785, Utah,Garfield ,5085,4986,-1.95
+2786, Utah,Grand ,9314,9579,2.85
+2787, Utah,Iron ,46706,49937,6.92
+2788, Utah,Juab ,10282,11010,7.08
+2789, Utah,Kane ,7199,7334,1.88
+2790, Utah,Millard ,12524,12694,1.36
+2791, Utah,Morgan ,9822,11437,16.44
+2792, Utah,Piute ,1523,1466,-3.74
+2793, Utah,Rich ,2269,2319,2.2
+2794, Utah,Salt Lake ,1064462,1121354,5.34
+2795, Utah,San Juan ,14900,16895,13.39
+2796, Utah,Sanpete ,27997,29409,5.04
+2797, Utah,Sevier ,20716,21267,2.66
+2798, Utah,Summit ,37867,40307,6.44
+2799, Utah,Tooele ,59872,64833,8.29
+2800, Utah,Uintah ,34682,36373,4.88
+2801, Utah,Utah ,540170,592299,9.65
+2802, Utah,Wasatch ,25385,30528,20.26
+2803, Utah,Washington ,144613,160245,10.81
+2804, Utah,Wayne ,2724,2702,-0.81
+2805, Utah,Weber ,236565,247560,4.65
+2806, Vermont,Addison ,36855,36959,0.28
+2807, Vermont,Bennington ,36704,36191,-1.4
+2808, Vermont,Caledonia ,31090,30333,-2.43
+2809, Vermont,Chittenden ,158772,161531,1.74
+2810, Vermont,Essex ,6219,6176,-0.69
+2811, Vermont,Franklin ,48259,48915,1.36
+2812, Vermont,Grand Isle ,6975,6919,-0.8
+2813, Vermont,Lamoille ,24941,25333,1.57
+2814, Vermont,Orange ,28947,28919,-0.1
+2815, Vermont,Orleans ,27170,26863,-1.13
+2816, Vermont,Rutland ,60895,59310,-2.6
+2817, Vermont,Washington ,59377,58504,-1.47
+2818, Vermont,Windham ,44007,43145,-1.96
+2819, Vermont,Windsor ,56233,55496,-1.31
+2820, Virginia,Accomack ,33324,32947,-1.13
+2821, Virginia,Albemarle ,101920,106878,4.86
+2822, Virginia,Alleghany ,16239,15595,-3.97
+2823, Virginia,Amelia ,12731,12913,1.43
+2824, Virginia,Amherst ,32458,31633,-2.54
+2825, Virginia,Appomattox ,15154,15475,2.12
+2826, Virginia,Arlington ,221625,230050,3.8
+2827, Virginia,Augusta ,73807,74997,1.61
+2828, Virginia,Bath ,4644,4476,-3.62
+2829, Virginia,Bedford ,75776,77960,2.88
+2830, Virginia,Bland ,6699,6513,-2.78
+2831, Virginia,Botetourt ,33182,33231,0.15
+2832, Virginia,Brunswick ,17040,16243,-4.68
+2833, Virginia,Buchanan ,23920,22178,-7.28
+2834, Virginia,Buckingham ,17048,17048,0.0
+2835, Virginia,Campbell ,54910,54952,0.08
+2836, Virginia,Caroline ,28987,30178,4.11
+2837, Virginia,Carroll ,29920,29531,-1.3
+2838, Virginia,Charles City ,7165,7071,-1.31
+2839, Virginia,Charlotte ,12414,12129,-2.3
+2840, Virginia,Chesterfield ,324124,339009,4.59
+2841, Virginia,Clarke ,14267,14374,0.75
+2842, Virginia,Craig ,5200,5158,-0.81
+2843, Virginia,Culpeper ,47778,50083,4.82
+2844, Virginia,Cumberland ,9848,9652,-1.99
+2845, Virginia,Dickenson ,15674,14968,-4.5
+2846, Virginia,Dinwiddie ,28306,28144,-0.57
+2847, Virginia,Essex ,11156,11123,-0.3
+2848, Virginia,Fairfax ,1120382,1138652,1.63
+2849, Virginia,Fauquier ,66677,69069,3.59
+2850, Virginia,Floyd ,15449,15731,1.83
+2851, Virginia,Fluvanna ,25898,26271,1.44
+2852, Virginia,Franklin ,56327,56069,-0.46
+2853, Virginia,Frederick ,80238,84421,5.21
+2854, Virginia,Giles ,16979,16857,-0.72
+2855, Virginia,Gloucester ,36909,37214,0.83
+2856, Virginia,Goochland ,21340,22668,6.22
+2857, Virginia,Grayson ,15232,15107,-0.82
+2858, Virginia,Greene ,18851,19371,2.76
+2859, Virginia,Greensville ,11745,11706,-0.33
+2860, Virginia,Halifax ,35791,34992,-2.23
+2861, Virginia,Hanover ,100421,104392,3.95
+2862, Virginia,Henrico ,315877,326501,3.36
+2863, Virginia,Henry ,52950,51445,-2.84
+2864, Virginia,Highland ,2252,2216,-1.6
+2865, Virginia,Isle of Wight ,35431,36596,3.29
+2866, Virginia,James City ,69326,74404,7.32
+2867, Virginia,King and Queen ,7070,7159,1.26
+2868, Virginia,King George ,24615,25984,5.56
+2869, Virginia,King William ,15979,16334,2.22
+2870, Virginia,Lancaster ,11223,10972,-2.24
+2871, Virginia,Lee ,25556,24179,-5.39
+2872, Virginia,Loudoun ,338196,385945,14.12
+2873, Virginia,Louisa ,33535,35236,5.07
+2874, Virginia,Lunenburg ,12633,12273,-2.85
+2875, Virginia,Madison ,13180,13078,-0.77
+2876, Virginia,Mathews ,8903,8782,-1.36
+2877, Virginia,Mecklenburg ,31738,30892,-2.67
+2878, Virginia,Middlesex ,10817,10778,-0.36
+2879, Virginia,Montgomery ,95736,98602,2.99
+2880, Virginia,Nelson ,14825,14869,0.3
+2881, Virginia,New Kent ,19159,21147,10.38
+2882, Virginia,Northampton ,12214,12139,-0.61
+2883, Virginia,Northumberland ,12366,12222,-1.16
+2884, Virginia,Nottoway ,15775,15595,-1.14
+2885, Virginia,Orange ,34166,35533,4.0
+2886, Virginia,Page ,23885,23654,-0.97
+2887, Virginia,Patrick ,18406,17923,-2.62
+2888, Virginia,Pittsylvania ,63032,61687,-2.13
+2889, Virginia,Powhatan ,28172,28443,0.96
+2890, Virginia,Prince Edward ,23188,23142,-0.2
+2891, Virginia,Prince George ,37152,37845,1.87
+2892, Virginia,Prince William ,430368,455210,5.77
+2893, Virginia,Pulaski ,34746,34203,-1.56
+2894, Virginia,Rappahannock ,7454,7388,-0.89
+2895, Virginia,Richmond ,9037,8774,-2.91
+2896, Virginia,Roanoke ,92991,94031,1.12
+2897, Virginia,Rockbridge ,22474,22392,-0.36
+2898, Virginia,Rockingham ,77429,79744,2.99
+2899, Virginia,Russell ,28421,27370,-3.7
+2900, Virginia,Scott ,22799,21930,-3.81
+2901, Virginia,Shenandoah ,42615,43175,1.31
+2902, Virginia,Smyth ,31872,31062,-2.54
+2903, Virginia,Southampton ,18575,18057,-2.79
+2904, Virginia,Spotsylvania ,126194,132010,4.61
+2905, Virginia,Stafford ,134472,144361,7.35
+2906, Virginia,Surry ,6851,6544,-4.48
+2907, Virginia,Sussex ,11929,11504,-3.56
+2908, Virginia,Tazewell ,44242,42150,-4.73
+2909, Virginia,Warren ,37996,39155,3.05
+2910, Virginia,Washington ,55047,54214,-1.51
+2911, Virginia,Westmoreland ,17518,17592,0.42
+2912, Virginia,Wise ,40890,39228,-4.06
+2913, Virginia,Wythe ,29300,29016,-0.97
+2914, Virginia,York ,65902,67976,3.15
+2915, Virginia,Alexandria city,147357,155810,5.74
+2916, Virginia,Bristol city,17797,16960,-4.7
+2917, Virginia,Buena Vista city,6766,6452,-4.64
+2918, Virginia,Charlottesville city,44424,46912,5.6
+2919, Virginia,Chesapeake city,228325,237940,4.21
+2920, Virginia,Colonial Heights city,17370,17772,2.31
+2921, Virginia,Covington city,5746,5518,-3.97
+2922, Virginia,Danville city,42697,41898,-1.87
+2923, Virginia,Emporia city,5791,5305,-8.39
+2924, Virginia,Fairfax city,23141,24164,4.42
+2925, Virginia,Falls Church city,13104,14014,6.94
+2926, Virginia,Franklin city,8441,8306,-1.6
+2927, Virginia,Fredericksburg city,27065,28297,4.55
+2928, Virginia,Galax city,6845,6775,-1.02
+2929, Virginia,Hampton city,137104,135410,-1.24
+2930, Virginia,Harrisonburg city,51095,53078,3.88
+2931, Virginia,Hopewell city,22294,22735,1.98
+2932, Virginia,Lexington city,6933,7045,1.62
+2933, Virginia,Lynchburg city,77447,80212,3.57
+2934, Virginia,Manassas city,40324,41483,2.87
+2935, Virginia,Manassas Park city,15477,15915,2.83
+2936, Virginia,Martinsville city,13632,13445,-1.37
+2937, Virginia,Newport News city,180247,181825,0.88
+2938, Virginia,Norfolk city,245962,245115,-0.34
+2939, Virginia,Norton city,4048,3864,-4.55
+2940, Virginia,Petersburg city,31850,31882,0.1
+2941, Virginia,Poquoson city,12122,12017,-0.87
+2942, Virginia,Portsmouth city,96567,95252,-1.36
+2943, Virginia,Radford city,16650,17483,5.0
+2944, Virginia,Richmond city,210826,223170,5.86
+2945, Virginia,Roanoke city,98143,99660,1.55
+2946, Virginia,Salem city,25007,25549,2.17
+2947, Virginia,Staunton city,23871,24363,2.06
+2948, Virginia,Suffolk city,85231,89273,4.74
+2949, Virginia,Virginia Beach city,445487,452602,1.6
+2950, Virginia,Waynesboro city,20990,21887,4.27
+2951, Virginia,Williamsburg city,14754,15214,3.12
+2952, Virginia,Winchester city,27084,27516,1.6
+2953, Washington,Adams ,18925,19238,1.65
+2954, Washington,Asotin ,21881,22306,1.94
+2955, Washington,Benton ,182486,193686,6.14
+2956, Washington,Chelan ,73654,76338,3.64
+2957, Washington,Clallam ,71824,74570,3.82
+2958, Washington,Clark ,437041,467018,6.86
+2959, Washington,Columbia ,3994,3938,-1.4
+2960, Washington,Cowlitz ,101840,105160,3.26
+2961, Washington,Douglas ,39308,41327,5.14
+2962, Washington,Ferry ,7707,7614,-1.21
+2963, Washington,Franklin ,85772,90160,5.12
+2964, Washington,Garfield ,2225,2247,0.99
+2965, Washington,Grant ,91486,93546,2.25
+2966, Washington,Grays Harbor ,71746,71628,-0.16
+2967, Washington,Island ,79274,82636,4.24
+2968, Washington,Jefferson ,29822,31139,4.42
+2969, Washington,King ,2008763,2149970,7.03
+2970, Washington,Kitsap ,254729,264811,3.96
+2971, Washington,Kittitas ,41630,44866,7.77
+2972, Washington,Klickitat ,20636,21301,3.22
+2973, Washington,Lewis ,75559,77066,1.99
+2974, Washington,Lincoln ,10445,10350,-0.91
+2975, Washington,Mason ,60795,62198,2.31
+2976, Washington,Okanogan ,41242,41554,0.76
+2977, Washington,Pacific ,20560,21249,3.35
+2978, Washington,Pend Oreille ,12993,13123,1.0
+2979, Washington,Pierce ,811674,861312,6.12
+2980, Washington,San Juan ,15810,16339,3.35
+2981, Washington,Skagit ,117987,123681,4.83
+2982, Washington,Skamania ,11164,11510,3.1
+2983, Washington,Snohomish ,732378,787620,7.54
+2984, Washington,Spokane ,475881,499072,4.87
+2985, Washington,Stevens ,43566,44439,2.0
+2986, Washington,Thurston ,258803,275222,6.34
+2987, Washington,Wahkiakum ,3986,4139,3.84
+2988, Washington,Walla Walla ,59402,60340,1.58
+2989, Washington,Whatcom ,205008,216800,5.75
+2990, Washington,Whitman ,46662,48851,4.69
+2991, Washington,Yakima ,246568,249636,1.24
+2992, West Virginia,Barbour ,16866,16831,-0.21
+2993, West Virginia,Berkeley ,106987,113525,6.11
+2994, West Virginia,Boone ,24374,22816,-6.39
+2995, West Virginia,Braxton ,14491,14471,-0.14
+2996, West Virginia,Brooke ,23802,22977,-3.47
+2997, West Virginia,Cabell ,96907,95987,-0.95
+2998, West Virginia,Calhoun ,7595,7336,-3.41
+2999, West Virginia,Clay ,9263,8859,-4.36
+3000, West Virginia,Doddridge ,8213,8413,2.44
+3001, West Virginia,Fayette ,45939,44323,-3.52
+3002, West Virginia,Gilmer ,8774,8249,-5.98
+3003, West Virginia,Grant ,11856,11732,-1.05
+3004, West Virginia,Greenbrier ,35880,35279,-1.68
+3005, West Virginia,Hampshire ,23688,23301,-1.63
+3006, West Virginia,Hancock ,30341,29590,-2.48
+3007, West Virginia,Hardy ,13909,13889,-0.14
+3008, West Virginia,Harrison ,69155,68400,-1.09
+3009, West Virginia,Jackson ,29318,29152,-0.57
+3010, West Virginia,Jefferson ,54548,56368,3.34
+3011, West Virginia,Kanawha ,192159,186241,-3.08
+3012, West Virginia,Lewis ,16440,16309,-0.8
+3013, West Virginia,Lincoln ,21647,21232,-1.92
+3014, West Virginia,Logan ,36336,33700,-7.25
+3015, West Virginia,McDowell ,21335,19141,-10.28
+3016, West Virginia,Marion ,56768,56538,-0.41
+3017, West Virginia,Marshall ,32677,31793,-2.71
+3018, West Virginia,Mason ,27233,26825,-1.5
+3019, West Virginia,Mercer ,62382,60468,-3.07
+3020, West Virginia,Mineral ,27894,27411,-1.73
+3021, West Virginia,Mingo ,26186,24647,-5.88
+3022, West Virginia,Monongalia ,100523,104622,4.08
+3023, West Virginia,Monroe ,13510,13370,-1.04
+3024, West Virginia,Morgan ,17451,17632,1.04
+3025, West Virginia,Nicholas ,26226,25311,-3.49
+3026, West Virginia,Ohio ,44042,42516,-3.46
+3027, West Virginia,Pendleton ,7516,7051,-6.19
+3028, West Virginia,Pleasants ,7595,7591,-0.05
+3029, West Virginia,Pocahontas ,8714,8501,-2.44
+3030, West Virginia,Preston ,33895,33758,-0.4
+3031, West Virginia,Putnam ,56531,56941,0.73
+3032, West Virginia,Raleigh ,79201,76601,-3.28
+3033, West Virginia,Randolph ,29408,29006,-1.37
+3034, West Virginia,Ritchie ,10274,9875,-3.88
+3035, West Virginia,Roane ,14696,14208,-3.32
+3036, West Virginia,Summers ,13803,12872,-6.74
+3037, West Virginia,Taylor ,16993,16859,-0.79
+3038, West Virginia,Tucker ,6923,6926,0.04
+3039, West Virginia,Tyler ,9031,8972,-0.65
+3040, West Virginia,Upshur ,24488,24658,0.69
+3041, West Virginia,Wayne ,41725,40531,-2.86
+3042, West Virginia,Webster ,9027,8646,-4.22
+3043, West Virginia,Wetzel ,16406,15640,-4.67
+3044, West Virginia,Wirt ,5810,5806,-0.07
+3045, West Virginia,Wood ,86560,85643,-1.06
+3046, West Virginia,Wyoming ,23249,21763,-6.39
+3047, Wisconsin,Adams ,20540,20069,-2.29
+3048, Wisconsin,Ashland ,15914,15714,-1.26
+3049, Wisconsin,Barron ,45789,45412,-0.82
+3050, Wisconsin,Bayfield ,15080,14891,-1.25
+3051, Wisconsin,Brown ,252981,260401,2.93
+3052, Wisconsin,Buffalo ,13354,13099,-1.91
+3053, Wisconsin,Burnett ,15357,15213,-0.94
+3054, Wisconsin,Calumet ,49732,49553,-0.36
+3055, Wisconsin,Chippewa ,63019,63649,1.0
+3056, Wisconsin,Clark ,34461,34557,0.28
+3057, Wisconsin,Columbia ,56423,56927,0.89
+3058, Wisconsin,Crawford ,16543,16321,-1.34
+3059, Wisconsin,Dane ,503438,531273,5.53
+3060, Wisconsin,Dodge ,88570,88068,-0.57
+3061, Wisconsin,Door ,27690,27587,-0.37
+3062, Wisconsin,Douglas ,43800,43509,-0.66
+3063, Wisconsin,Dunn ,43939,44704,1.74
+3064, Wisconsin,Eau Claire ,100905,102965,2.04
+3065, Wisconsin,Florence ,4475,4456,-0.42
+3066, Wisconsin,Fond du Lac ,101865,102144,0.27
+3067, Wisconsin,Forest ,9181,9064,-1.27
+3068, Wisconsin,Grant ,51018,52214,2.34
+3069, Wisconsin,Green ,36896,37075,0.49
+3070, Wisconsin,Green Lake ,19069,18719,-1.84
+3071, Wisconsin,Iowa ,23746,23654,-0.39
+3072, Wisconsin,Iron ,5940,5726,-3.6
+3073, Wisconsin,Jackson ,20472,20562,0.44
+3074, Wisconsin,Jefferson ,84400,84625,0.27
+3075, Wisconsin,Juneau ,26725,26274,-1.69
+3076, Wisconsin,Kenosha ,167434,168183,0.45
+3077, Wisconsin,Kewaunee ,20603,20405,-0.96
+3078, Wisconsin,La Crosse ,116704,118122,1.22
+3079, Wisconsin,Lafayette ,16855,16753,-0.61
+3080, Wisconsin,Langlade ,19740,19221,-2.63
+3081, Wisconsin,Lincoln ,28481,27902,-2.03
+3082, Wisconsin,Manitowoc ,80862,79536,-1.64
+3083, Wisconsin,Marathon ,134621,135603,0.73
+3084, Wisconsin,Marinette ,41455,40491,-2.33
+3085, Wisconsin,Marquette ,15180,15067,-0.74
+3086, Wisconsin,Menominee ,4369,4533,3.75
+3087, Wisconsin,Milwaukee ,954867,951448,-0.36
+3088, Wisconsin,Monroe ,45114,45623,1.13
+3089, Wisconsin,Oconto ,37469,37430,-0.1
+3090, Wisconsin,Oneida ,35756,35601,-0.43
+3091, Wisconsin,Outagamie ,178937,184526,3.12
+3092, Wisconsin,Ozaukee ,87111,88314,1.38
+3093, Wisconsin,Pepin ,7410,7307,-1.39
+3094, Wisconsin,Pierce ,40661,41238,1.42
+3095, Wisconsin,Polk ,43562,43481,-0.19
+3096, Wisconsin,Portage ,70532,70447,-0.12
+3097, Wisconsin,Price ,13875,13517,-2.58
+3098, Wisconsin,Racine ,194610,195140,0.27
+3099, Wisconsin,Richland ,17799,17476,-1.81
+3100, Wisconsin,Rock ,160232,161620,0.87
+3101, Wisconsin,Rusk ,14326,14127,-1.39
+3102, Wisconsin,St. Croix ,85256,88029,3.25
+3103, Wisconsin,Sauk ,62560,63949,2.22
+3104, Wisconsin,Sawyer ,16551,16369,-1.1
+3105, Wisconsin,Shawano ,41610,41062,-1.32
+3106, Wisconsin,Sheboygan ,115046,115427,0.33
+3107, Wisconsin,Taylor ,20497,20439,-0.28
+3108, Wisconsin,Trempealeau ,29365,29633,0.91
+3109, Wisconsin,Vernon ,30213,30814,1.99
+3110, Wisconsin,Vilas ,21292,21435,0.67
+3111, Wisconsin,Walworth ,103030,102959,-0.07
+3112, Wisconsin,Washburn ,15845,15648,-1.24
+3113, Wisconsin,Washington ,132727,134296,1.18
+3114, Wisconsin,Waukesha ,392709,398424,1.46
+3115, Wisconsin,Waupaca ,52040,51533,-0.97
+3116, Wisconsin,Waushara ,24479,24162,-1.29
+3117, Wisconsin,Winnebago ,168764,169886,0.66
+3118, Wisconsin,Wood ,74306,73107,-1.61
+3119, Wyoming,Albany ,37364,38256,2.39
+3120, Wyoming,Big Horn ,11781,12005,1.9
+3121, Wyoming,Campbell ,47872,48803,1.94
+3122, Wyoming,Carbon ,15681,15618,-0.4
+3123, Wyoming,Converse ,14035,14191,1.11
+3124, Wyoming,Crook ,7152,7464,4.36
+3125, Wyoming,Fremont ,41130,40242,-2.16
+3126, Wyoming,Goshen ,13656,13390,-1.95
+3127, Wyoming,Hot Springs ,4843,4679,-3.39
+3128, Wyoming,Johnson ,8608,8486,-1.42
+3129, Wyoming,Laramie ,94785,98136,3.54
+3130, Wyoming,Lincoln ,17940,19110,6.52
+3131, Wyoming,Natrona ,78602,81039,3.1
+3132, Wyoming,Niobrara ,2474,2480,0.24
+3133, Wyoming,Park ,28839,29353,1.78
+3134, Wyoming,Platte ,8736,8680,-0.64
+3135, Wyoming,Sheridan ,29580,30200,2.1
+3136, Wyoming,Sublette ,10414,9769,-6.19
+3137, Wyoming,Sweetwater ,45086,44165,-2.04
+3138, Wyoming,Teton ,21688,23191,6.93
+3139, Wyoming,Uinta ,20997,20773,-1.07
+3140, Wyoming,Washakie ,8437,8235,-2.39
+3141, Wyoming,Weston ,7065,7236,2.42
