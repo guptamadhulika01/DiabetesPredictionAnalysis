@@ -3,10 +3,7 @@ Predictive Analysis for Diabetes (for the US Population)
 Project Overview:
 The project seeks to analyze factors that lead to occurrence of diabetes and makes the population more susceptible to this life style disease. We also seek to find why the more of US population falls in the net of diabetes with every passing year. This disease has been increasing its spread with the year although the corresponding rise in the population and the demographics has been almost negligible.  
 Sources: 
-The data was taken from the USDA website considering that the data is credible as it comes from a government department and is free sourced and published online. The link is as given below: 
-
-https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/#Current%20Version
-
+The data was taken from the USDA website considering that the data is credible as it comes from a government department and is free sourced and published online. 
 Objectives:
 •	Try to figure out factors that can be a leading cause of diabetes and their affect. 
 •	The factors include obesity, access to fresh / better quality food, nearness to SNAP authorized stores, Restaurants (fast food and full service), farmer markets (along with those accepting SNAP)
